@@ -1,4 +1,5 @@
 import re
+from datetime import datetime
 
 def is_number(value):
     try:
@@ -6,6 +7,7 @@ def is_number(value):
         return True
     except (ValueError, AttributeError):
         return False
+
 
 def parse_statement(lines):
     statement_metadata = {}
@@ -18,15 +20,27 @@ def parse_statement(lines):
     for i, line in enumerate(lines[:50]):  # Only check first 50 lines
         line = line.strip()
         if line.startswith("From:"):
-            statement_metadata["period_from"] = line.replace("From:", "").strip()
+            date = line.replace("From:", "").strip()
+            parsed = datetime.strptime(date, "%d %b %y")
+            formattedDate = parsed.strftime("%Y-%m-%d")
+
+            statement_metadata["period_from"] = formattedDate
+
         elif line.startswith("To:"):
-            statement_metadata["period_to"] = line.replace("To:", "").strip()
+            date = line.replace("To:", "").strip()
+            parsed = datetime.strptime(date, "%d %b %y")
+            formattedDate = parsed.strftime("%Y-%m-%d")
+
+            statement_metadata["period_to"] = formattedDate
             statement_metadata["statement_date"] = statement_metadata["period_to"]
 
     
     for i, line in enumerate(lines):
         if re.match(r"^\d{2} [A-Za-z]{3}( \d{2})?$", line):
             date = line
+            parsed = datetime.strptime(date, "%d %b %y")
+            formattedDate = parsed.strftime("%Y-%m-%d")
+
             description = lines[i + 1].strip()
 
             numberStorage = []
@@ -48,7 +62,7 @@ def parse_statement(lines):
             balance = numberStorage[-1]
 
             transactions.append({
-                "date": date,
+                "date": formattedDate,
                 "description": description,
                 "debit": debit,
                 "credit": credit,

@@ -1,4115 +1,4115 @@
 {
   "pymupdf_results": {
     "statement_metadata": {
-      "period_from": "12 Nov 24",
-      "period_to": "10 Feb 25",
-      "statement_date": "10 Feb 25"
+      "period_from": "2024-11-12",
+      "period_to": "2025-02-10",
+      "statement_date": "2025-02-10"
     },
     "transactions": [
       {
-        "date": "13 Nov 24",
+        "date": "2024-11-13",
         "description": "DISCHEM CANAL 5222*0536 10 NOV",
         "debit": -758.83,
         "credit": 0,
         "raw_balance": 264752.02
       },
       {
-        "date": "13 Nov 24",
+        "date": "2024-11-13",
         "description": "WOOLWORTHS 5222*0536 10 NOV",
         "debit": -567.93,
         "credit": 0,
         "raw_balance": 264184.09
       },
       {
-        "date": "13 Nov 24",
+        "date": "2024-11-13",
         "description": "WOOLWORTHS 5222*0536 10 NOV",
         "debit": -597.0,
         "credit": 0,
         "raw_balance": 263587.09
       },
       {
-        "date": "13 Nov 24",
+        "date": "2024-11-13",
         "description": "FLW*UBER TRIP 5222*8649 11 NOV",
         "debit": -69.0,
         "credit": 0,
         "raw_balance": 263518.09
       },
       {
-        "date": "13 Nov 24",
+        "date": "2024-11-13",
         "description": "FLW*UBER TRIP 5222*8649 11 NOV",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 263508.09
       },
       {
-        "date": "13 Nov 24",
+        "date": "2024-11-13",
         "description": "VAS00092284753",
         "debit": -1000.0,
         "credit": 0,
         "raw_balance": 262508.09
       },
       {
-        "date": "14 Nov 24",
+        "date": "2024-11-14",
         "description": "ONGEGUNDLODGE 5222*0536 12 NOV",
         "debit": -25.0,
         "credit": 0,
         "raw_balance": 262483.09
       },
       {
-        "date": "14 Nov 24",
+        "date": "2024-11-14",
         "description": "C*ONGEGUNDLOD 5222*0536 12 NOV",
         "debit": -26.0,
         "credit": 0,
         "raw_balance": 262457.09
       },
       {
-        "date": "14 Nov 24",
+        "date": "2024-11-14",
         "description": "WOOLWORTHS 5222*8649 12 NOV",
         "debit": -1869.33,
         "credit": 0,
         "raw_balance": 260587.76
       },
       {
-        "date": "14 Nov 24",
+        "date": "2024-11-14",
         "description": "FLW*UBER TRIP 5222*8649 12 NOV",
         "debit": -67.0,
         "credit": 0,
         "raw_balance": 260520.76
       },
       {
-        "date": "14 Nov 24",
+        "date": "2024-11-14",
         "description": "M*HTTPS://WWW 5222*8649 12 NOV",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 260510.76
       },
       {
-        "date": "15 Nov 24",
+        "date": "2024-11-15",
         "description": "ANA POTTER",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 260460.76
       },
       {
-        "date": "15 Nov 24",
+        "date": "2024-11-15",
         "description": "LIAM POTTER",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 260410.76
       },
       {
-        "date": "15 Nov 24",
+        "date": "2024-11-15",
         "description": "FLW*UBER TRIP 5222*8649 13 NOV",
         "debit": -72.0,
         "credit": 0,
         "raw_balance": 260338.76
       },
       {
-        "date": "15 Nov 24",
+        "date": "2024-11-15",
         "description": "U*SA RUGBY SH 5222*8649 12 NOV",
         "debit": -1264.41,
         "credit": 0,
         "raw_balance": 259074.35
       },
       {
-        "date": "15 Nov 24",
+        "date": "2024-11-15",
         "description": "FLW*UBER TRIP 5222*8649 13 NOV",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 259064.35
       },
       {
-        "date": "15 Nov 24",
+        "date": "2024-11-15",
         "description": "EIMERFARMSTAL 5222*0536 13 NOV",
         "debit": -260.0,
         "credit": 0,
         "raw_balance": 258804.35
       },
       {
-        "date": "16 Nov 24",
+        "date": "2024-11-16",
         "description": "DR HEATHER TUFFIN ANT:WEDDING",
         "debit": -3000.0,
         "credit": 0,
         "raw_balance": 255804.35
       },
       {
-        "date": "16 Nov 24",
+        "date": "2024-11-16",
         "description": "I BUTLERS PIZ 5222*0536 15 NOV",
         "debit": -332.65,
         "credit": 0,
         "raw_balance": 255471.7
       },
       {
-        "date": "16 Nov 24",
+        "date": "2024-11-16",
         "description": "FLW*UBER TRIP 5222*8649 14 NOV",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 255461.7
       },
       {
-        "date": "16 Nov 24",
+        "date": "2024-11-16",
         "description": "FLW*UBER TRIP 5222*8649 14 NOV",
         "debit": -70.0,
         "credit": 0,
         "raw_balance": 255391.7
       },
       {
-        "date": "18 Nov 24",
+        "date": "2024-11-18",
         "description": "VOD PREPAID 0725070575",
         "debit": -89.0,
         "credit": 0,
         "raw_balance": 255302.7
       },
       {
-        "date": "18 Nov 24",
+        "date": "2024-11-18",
         "description": "VOD PREPAID 0646941483",
         "debit": -89.0,
         "credit": 0,
         "raw_balance": 255213.7
       },
       {
-        "date": "18 Nov 24",
+        "date": "2024-11-18",
         "description": "FLW*UBER TRIP 5222*8649 15 NOV",
         "debit": -70.0,
         "credit": 0,
         "raw_balance": 255143.7
       },
       {
-        "date": "18 Nov 24",
+        "date": "2024-11-18",
         "description": "FLW*UBER TRIP 5222*8649 15 NOV",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 255123.7
       },
       {
-        "date": "18 Nov 24",
+        "date": "2024-11-18",
         "description": "CMAHC KUNGFU-GRADE",
         "debit": -600.0,
         "credit": 0,
         "raw_balance": 254523.7
       },
       {
-        "date": "18 Nov 24",
+        "date": "2024-11-18",
         "description": "STUDIO2PILATES PILATES",
         "debit": -1380.0,
         "credit": 0,
         "raw_balance": 253143.7
       },
       {
-        "date": "18 Nov 24",
+        "date": "2024-11-18",
         "description": "M.MARTIN RAW GOLD",
         "debit": -2161.0,
         "credit": 0,
         "raw_balance": 250982.7
       },
       {
-        "date": "18 Nov 24",
+        "date": "2024-11-18",
         "description": "ANA POTTER",
         "debit": -150.0,
         "credit": 0,
         "raw_balance": 250832.7
       },
       {
-        "date": "19 Nov 24",
+        "date": "2024-11-19",
         "description": "KWIKSPAR WEST 5222*0536 16 NOV",
         "debit": -416.95,
         "credit": 0,
         "raw_balance": 250415.75
       },
       {
-        "date": "19 Nov 24",
+        "date": "2024-11-19",
         "description": "ENGEN SWARTLA 5222*8649 16 NOV",
         "debit": -64.2,
         "credit": 0,
         "raw_balance": 250351.55
       },
       {
-        "date": "19 Nov 24",
+        "date": "2024-11-19",
         "description": "PNP FAM RONDE 5222*8649 16 NOV",
         "debit": -297.97,
         "credit": 0,
         "raw_balance": 250053.58
       },
       {
-        "date": "19 Nov 24",
+        "date": "2024-11-19",
         "description": "FLW*UBER TRIP 5222*8649 16 NOV",
         "debit": -109.0,
         "credit": 0,
         "raw_balance": 249944.58
       },
       {
-        "date": "19 Nov 24",
+        "date": "2024-11-19",
         "description": "WOOLWORTHS 5222*8649 16 NOV",
         "debit": -403.6,
         "credit": 0,
         "raw_balance": 249540.98
       },
       {
-        "date": "19 Nov 24",
+        "date": "2024-11-19",
         "description": "KWIKSPAR WEST 5222*8649 16 NOV",
         "debit": -154.58,
         "credit": 0,
         "raw_balance": 249386.4
       },
       {
-        "date": "19 Nov 24",
+        "date": "2024-11-19",
         "description": "ENGEN SWARTLA 5222*8649 16 NOV",
         "debit": -117.7,
         "credit": 0,
         "raw_balance": 249268.7
       },
       {
-        "date": "19 Nov 24",
+        "date": "2024-11-19",
         "description": "CLICKS RONDEB 5222*8649 16 NOV",
         "debit": -161.97,
         "credit": 0,
         "raw_balance": 249106.73
       },
       {
-        "date": "20 Nov 24",
+        "date": "2024-11-20",
         "description": "M*UBER EATS 5222*0536 16 NOV",
         "debit": -528.9,
         "credit": 0,
         "raw_balance": 248577.83
       },
       {
-        "date": "20 Nov 24",
+        "date": "2024-11-20",
         "description": "ADVANCE CANAL 5222*8649 17 NOV",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 248567.83
       },
       {
-        "date": "20 Nov 24",
+        "date": "2024-11-20",
         "description": "WOODSTOCK TAP 5222*8649 16 NOV",
         "debit": -250.0,
         "credit": 0,
         "raw_balance": 248317.83
       },
       {
-        "date": "20 Nov 24",
+        "date": "2024-11-20",
         "description": "C*FPG HOLDING 5222*8649 16 NOV",
         "debit": -5.0,
         "credit": 0,
         "raw_balance": 248312.83
       },
       {
-        "date": "20 Nov 24",
+        "date": "2024-11-20",
         "description": "M&B CANAL WAL 5222*8649 17 NOV",
         "debit": -835.0,
         "credit": 0,
         "raw_balance": 247477.83
       },
       {
-        "date": "21 Nov 24",
+        "date": "2024-11-21",
         "description": "FLW*UBER TRIP 5222*8649 19 NOV",
         "debit": -55.0,
         "credit": 0,
         "raw_balance": 247422.83
       },
       {
-        "date": "21 Nov 24",
+        "date": "2024-11-21",
         "description": "HPY*AIYARA TH 5222*8649 18 NOV",
         "debit": -851.0,
         "credit": 0,
         "raw_balance": 246571.83
       },
       {
-        "date": "21 Nov 24",
+        "date": "2024-11-21",
         "description": "FLW*UBER TRIP 5222*8649 19 NOV",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 246561.83
       },
       {
-        "date": "21 Nov 24",
+        "date": "2024-11-21",
         "description": "MR MB TOMS MIKE, GOING N",
         "debit": -2700.0,
         "credit": 0,
         "raw_balance": 243861.83
       },
       {
-        "date": "21 Nov 24",
+        "date": "2024-11-21",
         "description": "BACHELORS-IAN",
         "debit": 0,
         "credit": 900.0,
         "raw_balance": 244761.83
       },
       {
-        "date": "21 Nov 24",
+        "date": "2024-11-21",
         "description": "CAPITEC D KRITZINGER",
         "debit": 0,
         "credit": 700.0,
         "raw_balance": 245461.83
       },
       {
-        "date": "22 Nov 24",
+        "date": "2024-11-22",
         "description": "ANA POTTER",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 245411.83
       },
       {
-        "date": "22 Nov 24",
+        "date": "2024-11-22",
         "description": "LIAM POTTER",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 245361.83
       },
       {
-        "date": "22 Nov 24",
+        "date": "2024-11-22",
         "description": "FLW*UBER TRIP 5222*8649 20 NOV",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 245351.83
       },
       {
-        "date": "22 Nov 24",
+        "date": "2024-11-22",
         "description": "FLW*UBER TRIP 5222*8649 20 NOV",
         "debit": -72.0,
         "credit": 0,
         "raw_balance": 245279.83
       },
       {
-        "date": "22 Nov 24",
+        "date": "2024-11-22",
         "description": "C*CAPELLI ON 5326*6906 20 NOV",
         "debit": -540.0,
         "credit": 0,
         "raw_balance": 244739.83
       },
       {
-        "date": "22 Nov 24",
+        "date": "2024-11-22",
         "description": "VOD PREPAID 0722467368",
         "debit": -89.0,
         "credit": 0,
         "raw_balance": 244650.83
       },
       {
-        "date": "22 Nov 24",
+        "date": "2024-11-22",
         "description": "LIBERTY050 0079312488 10539",
         "debit": -4360.66,
         "credit": 0,
         "raw_balance": 240290.17
       },
       {
-        "date": "23 Nov 24",
+        "date": "2024-11-23",
         "description": "FLW*UBER TRIP 5222*8649 21 NOV",
         "debit": -68.0,
         "credit": 0,
         "raw_balance": 240222.17
       },
       {
-        "date": "23 Nov 24",
+        "date": "2024-11-23",
         "description": "FLW*UBER TRIP 5222*8649 21 NOV",
         "debit": -73.0,
         "credit": 0,
         "raw_balance": 240149.17
       },
       {
-        "date": "23 Nov 24",
+        "date": "2024-11-23",
         "description": "FLW*UBER TRIP 5222*8649 21 NOV",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 240139.17
       },
       {
-        "date": "23 Nov 24",
+        "date": "2024-11-23",
         "description": "I BUTLERS PIZ 5222*0536 22 NOV",
         "debit": -452.05,
         "credit": 0,
         "raw_balance": 239687.12
       },
       {
-        "date": "23 Nov 24",
+        "date": "2024-11-23",
         "description": "ACSA CIA 5222*0536 20 NOV",
         "debit": -28.0,
         "credit": 0,
         "raw_balance": 239659.12
       },
       {
-        "date": "23 Nov 24",
+        "date": "2024-11-23",
         "description": "0000A722 2024-11-23T08:49:42 5326*6906",
         "debit": -3000.0,
         "credit": 0,
         "raw_balance": 236659.12
       },
       {
-        "date": "23 Nov 24",
+        "date": "2024-11-23",
         "description": "71465650",
         "debit": -12.0,
         "credit": 0,
         "raw_balance": 236647.12
       },
       {
-        "date": "25 Nov 24",
+        "date": "2024-11-25",
         "description": "NRF SALARY",
         "debit": 0,
         "credit": 74048.73,
         "raw_balance": 310695.85
       },
       {
-        "date": "25 Nov 24",
+        "date": "2024-11-25",
         "description": "NRF SALARY",
         "debit": 0,
         "credit": 48996.28,
         "raw_balance": 359692.13
       },
       {
-        "date": "25 Nov 24",
+        "date": "2024-11-25",
         "description": "FLW*UBER TRIP 5222*8649 22 NOV",
         "debit": -166.0,
         "credit": 0,
         "raw_balance": 359526.13
       },
       {
-        "date": "25 Nov 24",
+        "date": "2024-11-25",
         "description": "FLW*UBER TRIP 5222*8649 22 NOV",
         "debit": -267.0,
         "credit": 0,
         "raw_balance": 359259.13
       },
       {
-        "date": "25 Nov 24",
+        "date": "2024-11-25",
         "description": "AUTOGEN 555471720 DEC 241125",
         "debit": -2674.32,
         "credit": 0,
         "raw_balance": 356584.81
       },
       {
-        "date": "26 Nov 24",
+        "date": "2024-11-26",
         "description": "MUKURU LECTURE SAL",
         "debit": -6500.0,
         "credit": 0,
         "raw_balance": 350084.81
       },
       {
-        "date": "26 Nov 24",
+        "date": "2024-11-26",
         "description": "ENGEN BOTTELA 5326*6906 24 NOV",
         "debit": -1211.0,
         "credit": 0,
         "raw_balance": 348873.81
       },
       {
-        "date": "26 Nov 24",
+        "date": "2024-11-26",
         "description": "KWIKSPAR WEST 5326*6906 24 NOV",
         "debit": -254.98,
         "credit": 0,
         "raw_balance": 348618.83
       },
       {
-        "date": "26 Nov 24",
+        "date": "2024-11-26",
         "description": "FLW*UBER TRIP 5222*8649 23 NOV",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 348608.83
       },
       {
-        "date": "26 Nov 24",
+        "date": "2024-11-26",
         "description": "FLW*UBER TRIP 5222*8649 23 NOV",
         "debit": -70.0,
         "credit": 0,
         "raw_balance": 348538.83
       },
       {
-        "date": "26 Nov 24",
+        "date": "2024-11-26",
         "description": "FLW*UBER TRIP 5222*8649 23 NOV",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 348518.83
       },
       {
-        "date": "26 Nov 24",
+        "date": "2024-11-26",
         "description": "FLW*UBER TRIP 5222*8649 23 NOV",
         "debit": -360.0,
         "credit": 0,
         "raw_balance": 348158.83
       },
       {
-        "date": "26 Nov 24",
+        "date": "2024-11-26",
         "description": "FLW*UBER TRIP 5222*8649 23 NOV",
         "debit": -249.0,
         "credit": 0,
         "raw_balance": 347909.83
       },
       {
-        "date": "26 Nov 24",
+        "date": "2024-11-26",
         "description": "KWIKSPAR WEST 5222*0536 23 NOV",
         "debit": -363.76,
         "credit": 0,
         "raw_balance": 347546.07
       },
       {
-        "date": "27 Nov 24",
+        "date": "2024-11-27",
         "description": "FLW*UBER TRIP 5222*8649 25 NOV",
         "debit": -67.0,
         "credit": 0,
         "raw_balance": 347479.07
       },
       {
-        "date": "27 Nov 24",
+        "date": "2024-11-27",
         "description": "FLW*UBER TRIP 5222*8649 25 NOV",
         "debit": -106.0,
         "credit": 0,
         "raw_balance": 347373.07
       },
       {
-        "date": "27 Nov 24",
+        "date": "2024-11-27",
         "description": "VCARE RUSTENB 5222*0536 23 NOV",
         "debit": -1831.16,
         "credit": 0,
         "raw_balance": 345541.91
       },
       {
-        "date": "27 Nov 24",
+        "date": "2024-11-27",
         "description": "WOOLWORTHS 5326*6906 24 NOV",
         "debit": -1801.84,
         "credit": 0,
         "raw_balance": 343740.07
       },
       {
-        "date": "28 Nov 24",
+        "date": "2024-11-28",
         "description": "HPY*AIYARA TH 5326*6906 25 NOV",
         "debit": -733.0,
         "credit": 0,
         "raw_balance": 343007.07
       },
       {
-        "date": "28 Nov 24",
+        "date": "2024-11-28",
         "description": "FLW*UBER TRIP 5222*8649 26 NOV",
         "debit": -62.0,
         "credit": 0,
         "raw_balance": 342945.07
       },
       {
-        "date": "28 Nov 24",
+        "date": "2024-11-28",
         "description": "FLW*UBER TRIP 5222*8649 26 NOV",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 342935.07
       },
       {
-        "date": "29 Nov 24",
+        "date": "2024-11-29",
         "description": "ANA POTTER",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 342885.07
       },
       {
-        "date": "29 Nov 24",
+        "date": "2024-11-29",
         "description": "LIAM POTTER",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 342835.07
       },
       {
-        "date": "29 Nov 24",
+        "date": "2024-11-29",
         "description": "M*HTTPS://WWW 5222*8649 27 NOV",
         "debit": -80.0,
         "credit": 0,
         "raw_balance": 342755.07
       },
       {
-        "date": "29 Nov 24",
+        "date": "2024-11-29",
         "description": "FLW*UBER TRIP 5222*8649 27 NOV",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 342745.07
       },
       {
-        "date": "29 Nov 24",
+        "date": "2024-11-29",
         "description": "FLW*UBER TRIP 5222*8649 27 NOV",
         "debit": -60.0,
         "credit": 0,
         "raw_balance": 342685.07
       },
       {
-        "date": "30 Nov 24",
+        "date": "2024-11-30",
         "description": "I BUTLERS PIZ 5222*0536 29 NOV",
         "debit": -347.1,
         "credit": 0,
         "raw_balance": 342337.97
       },
       {
-        "date": "30 Nov 24",
+        "date": "2024-11-30",
         "description": "FLW*UBER TRIP 5222*8649 28 NOV",
         "debit": -70.0,
         "credit": 0,
         "raw_balance": 342267.97
       },
       {
-        "date": "30 Nov 24",
+        "date": "2024-11-30",
         "description": "FLW*UBER TRIP 5222*8649 28 NOV",
         "debit": -69.0,
         "credit": 0,
         "raw_balance": 342198.97
       },
       {
-        "date": "30 Nov 24",
+        "date": "2024-11-30",
         "description": "ADT CPT 6114011616ADTC048041",
         "debit": -1516.07,
         "credit": 0,
         "raw_balance": 340682.9
       },
       {
-        "date": "30 Nov 24",
+        "date": "2024-11-30",
         "description": "0000000071465650 00094 R28.20",
         "debit": -28.2,
         "credit": 0,
         "raw_balance": 340654.7
       },
       {
-        "date": "02 Dec 24",
+        "date": "2024-12-02",
         "description": "CANNONS CREEK IND ANASCHOOLACC",
         "debit": -6900.0,
         "credit": 0,
         "raw_balance": 333754.7
       },
       {
-        "date": "02 Dec 24",
+        "date": "2024-12-02",
         "description": "WESTERN CAPE SCHOOL CC BOOKS",
         "debit": -4219.8,
         "credit": 0,
         "raw_balance": 329534.9
       },
       {
-        "date": "02 Dec 24",
+        "date": "2024-12-02",
         "description": "CITY OF CAPE TOWN MU CT RATES",
         "debit": -3195.65,
         "credit": 0,
         "raw_balance": 326339.25
       },
       {
-        "date": "02 Dec 24",
+        "date": "2024-12-02",
         "description": "TRANSFER",
         "debit": -11000.0,
         "credit": 0,
         "raw_balance": 315339.25
       },
       {
-        "date": "02 Dec 24",
+        "date": "2024-12-02",
         "description": "ABUNDANCE RECYCLING RECYCLING",
         "debit": -150.0,
         "credit": 0,
         "raw_balance": 315189.25
       },
       {
-        "date": "02 Dec 24",
+        "date": "2024-12-02",
         "description": "FLW*UBER TRIP 5222*8649 29 NOV",
         "debit": -150.0,
         "credit": 0,
         "raw_balance": 315039.25
       },
       {
-        "date": "02 Dec 24",
+        "date": "2024-12-02",
         "description": "FLW*UBER TRIP 5222*8649 29 NOV",
         "debit": -80.0,
         "credit": 0,
         "raw_balance": 314959.25
       },
       {
-        "date": "03 Dec 24",
+        "date": "2024-12-03",
         "description": "KWIKSPAR WEST 5222*0536 30 NOV",
         "debit": -334.88,
         "credit": 0,
         "raw_balance": 314624.37
       },
       {
-        "date": "03 Dec 24",
+        "date": "2024-12-03",
         "description": "I WEB AFRICA 5326*6906 01 DEC",
         "debit": -1249.0,
         "credit": 0,
         "raw_balance": 313375.37
       },
       {
-        "date": "03 Dec 24",
+        "date": "2024-12-03",
         "description": "WOOLWORTHS 5326*6906 30 NOV",
         "debit": -983.89,
         "credit": 0,
         "raw_balance": 312391.48
       },
       {
-        "date": "03 Dec 24",
+        "date": "2024-12-03",
         "description": "ALPHEN VETERINARY HO LYRAMEDS",
         "debit": -828.5,
         "credit": 0,
         "raw_balance": 311562.98
       },
       {
-        "date": "04 Dec 24",
+        "date": "2024-12-04",
         "description": "SBSA 2024-12-03T19:31:25 5326*6906",
         "debit": -3000.0,
         "credit": 0,
         "raw_balance": 308562.98
       },
       {
-        "date": "04 Dec 24",
+        "date": "2024-12-04",
         "description": "71465650",
         "debit": -72.0,
         "credit": 0,
         "raw_balance": 308490.98
       },
       {
-        "date": "04 Dec 24",
+        "date": "2024-12-04",
         "description": "V A WATERFRON 5326*6906 01 DEC",
         "debit": -25.0,
         "credit": 0,
         "raw_balance": 308465.98
       },
       {
-        "date": "04 Dec 24",
+        "date": "2024-12-04",
         "description": "GELATO MANIA 5326*6906 01 DEC",
         "debit": -211.6,
         "credit": 0,
         "raw_balance": 308254.38
       },
       {
-        "date": "04 Dec 24",
+        "date": "2024-12-04",
         "description": "M*HTTPS://WWW 5326*6906 02 DEC",
         "debit": -41.0,
         "credit": 0,
         "raw_balance": 308213.38
       },
       {
-        "date": "04 Dec 24",
+        "date": "2024-12-04",
         "description": "C*WP SPORTS C 5326*6906 02 DEC",
         "debit": -290.0,
         "credit": 0,
         "raw_balance": 307923.38
       },
       {
-        "date": "04 Dec 24",
+        "date": "2024-12-04",
         "description": "VOD PREPAID 0824222503",
         "debit": -89.0,
         "credit": 0,
         "raw_balance": 307834.38
       },
       {
-        "date": "05 Dec 24",
+        "date": "2024-12-05",
         "description": "M*UBER EATS 5222*0536 02 DEC",
         "debit": -633.9,
         "credit": 0,
         "raw_balance": 307200.48
       },
       {
-        "date": "05 Dec 24",
+        "date": "2024-12-05",
         "description": "WOOLWORTHS 5326*6906 03 DEC",
         "debit": -701.86,
         "credit": 0,
         "raw_balance": 306498.62
       },
       {
-        "date": "05 Dec 24",
+        "date": "2024-12-05",
         "description": "UBER 5326*6906 02 DEC",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 306478.62
       },
       {
-        "date": "05 Dec 24",
+        "date": "2024-12-05",
         "description": "UBER 5326*6906 02 DEC",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 306458.62
       },
       {
-        "date": "05 Dec 24",
+        "date": "2024-12-05",
         "description": "UBER 5326*6906 02 DEC",
         "debit": -90.0,
         "credit": 0,
         "raw_balance": 306368.62
       },
       {
-        "date": "05 Dec 24",
+        "date": "2024-12-05",
         "description": "DR L J TOWNSEND ENRICOGIFT",
         "debit": -500.0,
         "credit": 0,
         "raw_balance": 305868.62
       },
       {
-        "date": "06 Dec 24",
+        "date": "2024-12-06",
         "description": "ANA POTTER",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 305818.62
       },
       {
-        "date": "06 Dec 24",
+        "date": "2024-12-06",
         "description": "LIAM POTTER",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 305768.62
       },
       {
-        "date": "06 Dec 24",
+        "date": "2024-12-06",
         "description": "WOOLWORTHS 5326*6906 04 DEC",
         "debit": -767.57,
         "credit": 0,
         "raw_balance": 305001.05
       },
       {
-        "date": "06 Dec 24",
+        "date": "2024-12-06",
         "description": "UBER 5326*6906 03 DEC",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 304981.05
       },
       {
-        "date": "06 Dec 24",
+        "date": "2024-12-06",
         "description": "UBER 5326*6906 03 DEC",
         "debit": -95.0,
         "credit": 0,
         "raw_balance": 304886.05
       },
       {
-        "date": "06 Dec 24",
+        "date": "2024-12-06",
         "description": "CHANTELE TALJAARD ANA CHANTELE",
         "debit": -4150.0,
         "credit": 0,
         "raw_balance": 300736.05
       },
       {
-        "date": "06 Dec 24",
+        "date": "2024-12-06",
         "description": "CHRISTIAN HETTLAGE CHAKAGIFT",
         "debit": -500.0,
         "credit": 0,
         "raw_balance": 300236.05
       },
       {
-        "date": "07 Dec 24",
+        "date": "2024-12-07",
         "description": "I BUTLERS PIZ 5222*0536 06 DEC",
         "debit": -585.45,
         "credit": 0,
         "raw_balance": 299650.6
       },
       {
-        "date": "09 Dec 24",
+        "date": "2024-12-09",
         "description": "UBER 5326*6906 05 DEC",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 299630.6
       },
       {
-        "date": "09 Dec 24",
+        "date": "2024-12-09",
         "description": "UBER 5326*6906 05 DEC",
         "debit": -67.0,
         "credit": 0,
         "raw_balance": 299563.6
       },
       {
-        "date": "09 Dec 24",
+        "date": "2024-12-09",
         "description": "UBER 5326*6906 05 DEC",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 299513.6
       },
       {
-        "date": "09 Dec 24",
+        "date": "2024-12-09",
         "description": "C*COCOA CHA C 5222*0536 06 DEC",
         "debit": -1150.0,
         "credit": 0,
         "raw_balance": 298363.6
       },
       {
-        "date": "09 Dec 24",
+        "date": "2024-12-09",
         "description": "FLW*UBER TRIP 5222*0536 06 DEC",
         "debit": -118.0,
         "credit": 0,
         "raw_balance": 298245.6
       },
       {
-        "date": "09 Dec 24",
+        "date": "2024-12-09",
         "description": "MS F SLAMDIEN MIA HAIR",
         "debit": -1500.0,
         "credit": 0,
         "raw_balance": 296745.6
       },
       {
-        "date": "09 Dec 24",
+        "date": "2024-12-09",
         "description": "00005697 2024-12-09T12:54:50 5326*6906",
         "debit": -3000.0,
         "credit": 0,
         "raw_balance": 293745.6
       },
       {
-        "date": "10 Dec 24",
+        "date": "2024-12-10",
         "description": "VOD PREPAID 0722467368",
         "debit": -89.0,
         "credit": 0,
         "raw_balance": 293656.6
       },
       {
-        "date": "10 Dec 24",
+        "date": "2024-12-10",
         "description": "WOLMARTAFRIKA 5222*0536 07 DEC",
         "debit": -249.0,
         "credit": 0,
         "raw_balance": 293407.6
       },
       {
-        "date": "10 Dec 24",
+        "date": "2024-12-10",
         "description": "#INTERNATIONAL5222625468348649",
         "debit": -4.37,
         "credit": 0,
         "raw_balance": 293403.23
       },
       {
-        "date": "10 Dec 24",
+        "date": "2024-12-10",
         "description": "NETFLIX.COM 5222*8649 08 DEC",
         "debit": -159.0,
         "credit": 0,
         "raw_balance": 293244.23
       },
       {
-        "date": "10 Dec 24",
+        "date": "2024-12-10",
         "description": "APPLE.COM/BIL 5222*8649 07 DEC",
         "debit": -124.99,
         "credit": 0,
         "raw_balance": 293119.24
       },
       {
-        "date": "10 Dec 24",
+        "date": "2024-12-10",
         "description": "#INTERNATIONAL5222625468348649",
         "debit": -3.44,
         "credit": 0,
         "raw_balance": 293115.8
       },
       {
-        "date": "10 Dec 24",
+        "date": "2024-12-10",
         "description": "KWIKSPAR WEST 5326*6906 07 DEC",
         "debit": -548.38,
         "credit": 0,
         "raw_balance": 292567.42
       },
       {
-        "date": "10 Dec 24",
+        "date": "2024-12-10",
         "description": "UBER 5326*6906 07 DEC",
         "debit": -60.0,
         "credit": 0,
         "raw_balance": 292507.42
       },
       {
-        "date": "10 Dec 24",
+        "date": "2024-12-10",
         "description": "C*KWIKSPAR PR 5326*6906 09 DEC",
         "debit": -145.96,
         "credit": 0,
         "raw_balance": 292361.46
       },
       {
-        "date": "10 Dec 24",
+        "date": "2024-12-10",
         "description": "UBER 5326*6906 07 DEC",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 292341.46
       },
       {
-        "date": "10 Dec 24",
+        "date": "2024-12-10",
         "description": "UBER 5326*6906 07 DEC",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 292321.46
       },
       {
-        "date": "10 Dec 24",
+        "date": "2024-12-10",
         "description": "UBER 5326*6906 07 DEC",
         "debit": -48.0,
         "credit": 0,
         "raw_balance": 292273.46
       },
       {
-        "date": "10 Dec 24",
+        "date": "2024-12-10",
         "description": "VAS00096101681",
         "debit": -1000.0,
         "credit": 0,
         "raw_balance": 291273.46
       },
       {
-        "date": "11 Dec 24",
+        "date": "2024-12-11",
         "description": "ADVANCE CANAL 5222*0536 08 DEC",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 291263.46
       },
       {
-        "date": "12 Dec 24",
+        "date": "2024-12-12",
         "description": "DIE VELDSKOEN 5222*0536 10 DEC",
         "debit": -320.0,
         "credit": 0,
         "raw_balance": 290943.46
       },
       {
-        "date": "12 Dec 24",
+        "date": "2024-12-12",
         "description": "MUGG AND BEAN 5222*0536 10 DEC",
         "debit": -74.0,
         "credit": 0,
         "raw_balance": 290869.46
       },
       {
-        "date": "12 Dec 24",
+        "date": "2024-12-12",
         "description": "UBER 5326*6906 09 DEC",
         "debit": -170.0,
         "credit": 0,
         "raw_balance": 290699.46
       },
       {
-        "date": "12 Dec 24",
+        "date": "2024-12-12",
         "description": "UBER 5326*6906 09 DEC",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 290679.46
       },
       {
-        "date": "12 Dec 24",
+        "date": "2024-12-12",
         "description": "UBER 5326*6906 09 DEC",
         "debit": -260.0,
         "credit": 0,
         "raw_balance": 290419.46
       },
       {
-        "date": "13 Dec 24",
+        "date": "2024-12-13",
         "description": "NRF SALARY",
         "debit": 0,
         "credit": 210208.91,
         "raw_balance": 500628.37
       },
       {
-        "date": "13 Dec 24",
+        "date": "2024-12-13",
         "description": "NRF SALARY",
         "debit": 0,
         "credit": 124477.81,
         "raw_balance": 625106.18
       },
       {
-        "date": "13 Dec 24",
+        "date": "2024-12-13",
         "description": "ANA POTTER",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 625056.18
       },
       {
-        "date": "13 Dec 24",
+        "date": "2024-12-13",
         "description": "LIAM POTTER",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 625006.18
       },
       {
-        "date": "13 Dec 24",
+        "date": "2024-12-13",
         "description": "FLW*UBER TRIP 5222*0536 11 DEC",
         "debit": -83.0,
         "credit": 0,
         "raw_balance": 624923.18
       },
       {
-        "date": "13 Dec 24",
+        "date": "2024-12-13",
         "description": "I BUTLERS PIZ 5222*0536 12 DEC",
         "debit": -585.45,
         "credit": 0,
         "raw_balance": 624337.73
       },
       {
-        "date": "13 Dec 24",
+        "date": "2024-12-13",
         "description": "PAYFAST*TAKEALOTCOM",
         "debit": -1189.0,
         "credit": 0,
         "raw_balance": 623148.73
       },
       {
-        "date": "14 Dec 24",
+        "date": "2024-12-14",
         "description": "VCARE RUSTENB 5326*6906 11 DEC",
         "debit": -3139.82,
         "credit": 0,
         "raw_balance": 620008.91
       },
       {
-        "date": "14 Dec 24",
+        "date": "2024-12-14",
         "description": "YOCO *FIXIT 5326*6906 12 DEC",
         "debit": -2145.0,
         "credit": 0,
         "raw_balance": 617863.91
       },
       {
-        "date": "17 Dec 24",
+        "date": "2024-12-17",
         "description": "VOD PREPAID 0725070575",
         "debit": -89.0,
         "credit": 0,
         "raw_balance": 617774.91
       },
       {
-        "date": "17 Dec 24",
+        "date": "2024-12-17",
         "description": "UBER 5326*6906 12 DEC",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 617754.91
       },
       {
-        "date": "17 Dec 24",
+        "date": "2024-12-17",
         "description": "UBER 5326*6906 12 DEC",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 617734.91
       },
       {
-        "date": "17 Dec 24",
+        "date": "2024-12-17",
         "description": "UBER 5326*6906 12 DEC",
         "debit": -44.0,
         "credit": 0,
         "raw_balance": 617690.91
       },
       {
-        "date": "17 Dec 24",
+        "date": "2024-12-17",
         "description": "UBER 5326*6906 12 DEC",
         "debit": -48.0,
         "credit": 0,
         "raw_balance": 617642.91
       },
       {
-        "date": "17 Dec 24",
+        "date": "2024-12-17",
         "description": "UBER 5326*6906 12 DEC",
         "debit": -80.0,
         "credit": 0,
         "raw_balance": 617562.91
       },
       {
-        "date": "17 Dec 24",
+        "date": "2024-12-17",
         "description": "UBER 5326*6906 12 DEC",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 617542.91
       },
       {
-        "date": "17 Dec 24",
+        "date": "2024-12-17",
         "description": "C*BP PINELAND 5326*6906 13 DEC",
         "debit": -1208.33,
         "credit": 0,
         "raw_balance": 616334.58
       },
       {
-        "date": "17 Dec 24",
+        "date": "2024-12-17",
         "description": "FLW*UBER TRIP 5222*0536 13 DEC",
         "debit": -84.0,
         "credit": 0,
         "raw_balance": 616250.58
       },
       {
-        "date": "17 Dec 24",
+        "date": "2024-12-17",
         "description": "LIAM POTTER",
         "debit": -900.0,
         "credit": 0,
         "raw_balance": 615350.58
       },
       {
-        "date": "17 Dec 24",
+        "date": "2024-12-17",
         "description": "MS F SLAMDIEN MIA HAIR",
         "debit": -250.0,
         "credit": 0,
         "raw_balance": 615100.58
       },
       {
-        "date": "17 Dec 24",
+        "date": "2024-12-17",
         "description": "M.MARTIN RAW GOLD",
         "debit": -3241.5,
         "credit": 0,
         "raw_balance": 611859.08
       },
       {
-        "date": "17 Dec 24",
+        "date": "2024-12-17",
         "description": "CMAHC KUNGFU",
         "debit": -1520.0,
         "credit": 0,
         "raw_balance": 610339.08
       },
       {
-        "date": "18 Dec 24",
+        "date": "2024-12-18",
         "description": "MD INC 5222*0536 16 DEC",
         "debit": -1900.0,
         "credit": 0,
         "raw_balance": 608439.08
       },
       {
-        "date": "18 Dec 24",
+        "date": "2024-12-18",
         "description": "TASHASCANALWA 5222*0536 16 DEC",
         "debit": -740.0,
         "credit": 0,
         "raw_balance": 607699.08
       },
       {
-        "date": "18 Dec 24",
+        "date": "2024-12-18",
         "description": "KWIKSPAR WEST 5222*0536 14 DEC",
         "debit": -660.33,
         "credit": 0,
         "raw_balance": 607038.75
       },
       {
-        "date": "18 Dec 24",
+        "date": "2024-12-18",
         "description": "UBER 5326*6906 14 DEC",
         "debit": -60.0,
         "credit": 0,
         "raw_balance": 606978.75
       },
       {
-        "date": "18 Dec 24",
+        "date": "2024-12-18",
         "description": "UBER 5326*6906 13 DEC",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 606968.75
       },
       {
-        "date": "18 Dec 24",
+        "date": "2024-12-18",
         "description": "UBER 5326*6906 14 DEC",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 606948.75
       },
       {
-        "date": "18 Dec 24",
+        "date": "2024-12-18",
         "description": "UBER 5326*6906 13 DEC",
         "debit": -230.0,
         "credit": 0,
         "raw_balance": 606718.75
       },
       {
-        "date": "19 Dec 24",
+        "date": "2024-12-19",
         "description": "ADVANCE CANAL 5222*0536 16 DEC",
         "debit": -11.0,
         "credit": 0,
         "raw_balance": 606707.75
       },
       {
-        "date": "19 Dec 24",
+        "date": "2024-12-19",
         "description": "VCARE RUSTENB 5222*0536 16 DEC",
         "debit": -338.52,
         "credit": 0,
         "raw_balance": 606369.23
       },
       {
-        "date": "19 Dec 24",
+        "date": "2024-12-19",
         "description": "DISCHEM CANAL 5222*0536 16 DEC",
         "debit": -139.99,
         "credit": 0,
         "raw_balance": 606229.24
       },
       {
-        "date": "19 Dec 24",
+        "date": "2024-12-19",
         "description": "YOCO *CMEDH 5222*0536 17 DEC",
         "debit": -614.4,
         "credit": 0,
         "raw_balance": 605614.84
       },
       {
-        "date": "19 Dec 24",
+        "date": "2024-12-19",
         "description": "KARABO PARKIN 5222*0536 16 DEC",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 605594.84
       },
       {
-        "date": "19 Dec 24",
+        "date": "2024-12-19",
         "description": "M*TAKEALO*T A 5222*0536 16 DEC",
         "debit": -3148.0,
         "credit": 0,
         "raw_balance": 602446.84
       },
       {
-        "date": "19 Dec 24",
+        "date": "2024-12-19",
         "description": "I*DL *AMAZON 5326*6906 15 DEC",
         "debit": -79.0,
         "credit": 0,
         "raw_balance": 602367.84
       },
       {
-        "date": "19 Dec 24",
+        "date": "2024-12-19",
         "description": "M*HTTPS://WWW 5326*6906 17 DEC",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 602347.84
       },
       {
-        "date": "19 Dec 24",
+        "date": "2024-12-19",
         "description": "UBER 5326*6906 16 DEC",
         "debit": -41.0,
         "credit": 0,
         "raw_balance": 602306.84
       },
       {
-        "date": "19 Dec 24",
+        "date": "2024-12-19",
         "description": "UBER 5326*6906 16 DEC",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 602286.84
       },
       {
-        "date": "20 Dec 24",
+        "date": "2024-12-20",
         "description": "ANA POTTER",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 602236.84
       },
       {
-        "date": "20 Dec 24",
+        "date": "2024-12-20",
         "description": "LIAM POTTER",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 602186.84
       },
       {
-        "date": "20 Dec 24",
+        "date": "2024-12-20",
         "description": "UBER 5326*6906 17 DEC",
         "debit": -48.0,
         "credit": 0,
         "raw_balance": 602138.84
       },
       {
-        "date": "20 Dec 24",
+        "date": "2024-12-20",
         "description": "UBER 5326*6906 17 DEC",
         "debit": -44.0,
         "credit": 0,
         "raw_balance": 602094.84
       },
       {
-        "date": "20 Dec 24",
+        "date": "2024-12-20",
         "description": "UBER 5326*6906 17 DEC",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 602074.84
       },
       {
-        "date": "21 Dec 24",
+        "date": "2024-12-21",
         "description": "CITY OF CAPE TOWN MU CTRATES",
         "debit": -2882.0,
         "credit": 0,
         "raw_balance": 599192.84
       },
       {
-        "date": "21 Dec 24",
+        "date": "2024-12-21",
         "description": "UBER 5326*6906 18 DEC",
         "debit": -63.0,
         "credit": 0,
         "raw_balance": 599129.84
       },
       {
-        "date": "21 Dec 24",
+        "date": "2024-12-21",
         "description": "00004357 2024-12-21T10:42:42 5326*6906",
         "debit": -3000.0,
         "credit": 0,
         "raw_balance": 596129.84
       },
       {
-        "date": "21 Dec 24",
+        "date": "2024-12-21",
         "description": "71465650",
         "debit": -24.0,
         "credit": 0,
         "raw_balance": 596105.84
       },
       {
-        "date": "23 Dec 24",
+        "date": "2024-12-23",
         "description": "UBER 5326*6906 19 DEC",
         "debit": -62.0,
         "credit": 0,
         "raw_balance": 596043.84
       },
       {
-        "date": "23 Dec 24",
+        "date": "2024-12-23",
         "description": "UBER 5326*6906 19 DEC",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 596033.84
       },
       {
-        "date": "23 Dec 24",
+        "date": "2024-12-23",
         "description": "UBER 5326*6906 19 DEC",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 596023.84
       },
       {
-        "date": "23 Dec 24",
+        "date": "2024-12-23",
         "description": "UBER 5326*6906 19 DEC",
         "debit": -44.0,
         "credit": 0,
         "raw_balance": 595979.84
       },
       {
-        "date": "23 Dec 24",
+        "date": "2024-12-23",
         "description": "UBER 5326*6906 19 DEC",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 595959.84
       },
       {
-        "date": "23 Dec 24",
+        "date": "2024-12-23",
         "description": "VOD PREPAID 0646941483",
         "debit": -89.0,
         "credit": 0,
         "raw_balance": 595870.84
       },
       {
-        "date": "23 Dec 24",
+        "date": "2024-12-23",
         "description": "216990534 MUKURU",
         "debit": -13000.0,
         "credit": 0,
         "raw_balance": 582870.84
       },
       {
-        "date": "23 Dec 24",
+        "date": "2024-12-23",
         "description": "FEE IMMEDIATE PAYMENT",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 582820.84
       },
       {
-        "date": "23 Dec 24",
+        "date": "2024-12-23",
         "description": "CHANTELE TALJAARD ANA CHANTELE",
         "debit": -1660.0,
         "credit": 0,
         "raw_balance": 581160.84
       },
       {
-        "date": "23 Dec 24",
+        "date": "2024-12-23",
         "description": "LIBERTY050 0079312488 10579",
         "debit": -4360.66,
         "credit": 0,
         "raw_balance": 576800.18
       },
       {
-        "date": "24 Dec 24",
+        "date": "2024-12-24",
         "description": "C*THE CRAZY S 5222*0536 23 DEC",
         "debit": -628.92,
         "credit": 0,
         "raw_balance": 576171.26
       },
       {
-        "date": "24 Dec 24",
+        "date": "2024-12-24",
         "description": "KWIKSPAR WEST 5222*0536 21 DEC",
         "debit": -343.58,
         "credit": 0,
         "raw_balance": 575827.68
       },
       {
-        "date": "24 Dec 24",
+        "date": "2024-12-24",
         "description": "PNA OBSERVATO 5222*0536 21 DEC",
         "debit": -913.68,
         "credit": 0,
         "raw_balance": 574914.0
       },
       {
-        "date": "24 Dec 24",
+        "date": "2024-12-24",
         "description": "I BUTLERS PIZ 5326*6906 21 DEC",
         "debit": -380.19,
         "credit": 0,
         "raw_balance": 574533.81
       },
       {
-        "date": "24 Dec 24",
+        "date": "2024-12-24",
         "description": "UBER 5326*6906 21 DEC",
         "debit": -70.0,
         "credit": 0,
         "raw_balance": 574463.81
       },
       {
-        "date": "24 Dec 24",
+        "date": "2024-12-24",
         "description": "POOLSIDESERVI 5326*6906 21 DEC",
         "debit": -805.0,
         "credit": 0,
         "raw_balance": 573658.81
       },
       {
-        "date": "24 Dec 24",
+        "date": "2024-12-24",
         "description": "UBER 5326*6906 21 DEC",
         "debit": -60.0,
         "credit": 0,
         "raw_balance": 573598.81
       },
       {
-        "date": "24 Dec 24",
+        "date": "2024-12-24",
         "description": "UBER 5326*6906 21 DEC",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 573578.81
       },
       {
-        "date": "24 Dec 24",
+        "date": "2024-12-24",
         "description": "M*HTTPS://WWW 5326*6906 21 DEC",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 573558.81
       },
       {
-        "date": "24 Dec 24",
+        "date": "2024-12-24",
         "description": "AUTOGEN 555471720 JAN 241224",
         "debit": -2674.32,
         "credit": 0,
         "raw_balance": 570884.49
       },
       {
-        "date": "27 Dec 24",
+        "date": "2024-12-27",
         "description": "ANA POTTER",
         "debit": -3000.0,
         "credit": 0,
         "raw_balance": 567884.49
       },
       {
-        "date": "27 Dec 24",
+        "date": "2024-12-27",
         "description": "LIAM POTTER",
         "debit": -2480.0,
         "credit": 0,
         "raw_balance": 565404.49
       },
       {
-        "date": "27 Dec 24",
+        "date": "2024-12-27",
         "description": "ANA POTTER",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 565354.49
       },
       {
-        "date": "27 Dec 24",
+        "date": "2024-12-27",
         "description": "LIAM POTTER",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 565304.49
       },
       {
-        "date": "27 Dec 24",
+        "date": "2024-12-27",
         "description": "YUPPIECHEF ON 5222*0536 23 DEC",
         "debit": -165.0,
         "credit": 0,
         "raw_balance": 565139.49
       },
       {
-        "date": "27 Dec 24",
+        "date": "2024-12-27",
         "description": "ASJ CANALWALK 5222*0536 23 DEC",
         "debit": -2048.02,
         "credit": 0,
         "raw_balance": 563091.47
       },
       {
-        "date": "27 Dec 24",
+        "date": "2024-12-27",
         "description": "WOOLWORTHS 5222*0536 22 DEC",
         "debit": -2913.75,
         "credit": 0,
         "raw_balance": 560177.72
       },
       {
-        "date": "27 Dec 24",
+        "date": "2024-12-27",
         "description": "PNA CANAL WAL 5222*0536 23 DEC",
         "debit": -946.94,
         "credit": 0,
         "raw_balance": 559230.78
       },
       {
-        "date": "27 Dec 24",
+        "date": "2024-12-27",
         "description": "ADVANCE CANAL 5326*6906 22 DEC",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 559220.78
       },
       {
-        "date": "27 Dec 24",
+        "date": "2024-12-27",
         "description": "DISCHEM CANAL 5326*6906 22 DEC",
         "debit": -466.78,
         "credit": 0,
         "raw_balance": 558754.0
       },
       {
-        "date": "27 Dec 24",
+        "date": "2024-12-27",
         "description": "C*SMW 0731 CA 5326*6906 23 DEC",
         "debit": -599.9,
         "credit": 0,
         "raw_balance": 558154.1
       },
       {
-        "date": "27 Dec 24",
+        "date": "2024-12-27",
         "description": "WOOLWORTHS 5326*6906 22 DEC",
         "debit": -1853.97,
         "credit": 0,
         "raw_balance": 556300.13
       },
       {
-        "date": "28 Dec 24",
+        "date": "2024-12-28",
         "description": "IK *YOUR COPY 5222*0536 24 DEC",
         "debit": -40.0,
         "credit": 0,
         "raw_balance": 556260.13
       },
       {
-        "date": "28 Dec 24",
+        "date": "2024-12-28",
         "description": "#INTERNATIONAL5222625462250536",
         "debit": -37.65,
         "credit": 0,
         "raw_balance": 556222.48
       },
       {
-        "date": "28 Dec 24",
+        "date": "2024-12-28",
         "description": "PHYSIOSCPT 5222*0536 24 DEC",
         "debit": -1100.0,
         "credit": 0,
         "raw_balance": 555122.48
       },
       {
-        "date": "28 Dec 24",
+        "date": "2024-12-28",
         "description": "PLAYSTATION N 5222*0536 25 DEC",
         "debit": -1369.0,
         "credit": 0,
         "raw_balance": 553753.48
       },
       {
-        "date": "28 Dec 24",
+        "date": "2024-12-28",
         "description": "GADGET TIME C 5326*6906 22 DEC",
         "debit": -199.95,
         "credit": 0,
         "raw_balance": 553553.53
       },
       {
-        "date": "28 Dec 24",
+        "date": "2024-12-28",
         "description": "WOOLWORTHS 5326*6906 24 DEC",
         "debit": -2617.64,
         "credit": 0,
         "raw_balance": 550935.89
       },
       {
-        "date": "28 Dec 24",
+        "date": "2024-12-28",
         "description": "UBER 5326*6906 23 DEC",
         "debit": -73.0,
         "credit": 0,
         "raw_balance": 550862.89
       },
       {
-        "date": "28 Dec 24",
+        "date": "2024-12-28",
         "description": "UBER 5326*6906 24 DEC",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 550852.89
       },
       {
-        "date": "28 Dec 24",
+        "date": "2024-12-28",
         "description": "UBER 5326*6906 24 DEC",
         "debit": -70.0,
         "credit": 0,
         "raw_balance": 550782.89
       },
       {
-        "date": "28 Dec 24",
+        "date": "2024-12-28",
         "description": "WOOLWORTHS 5326*6906 24 DEC",
         "debit": -288.32,
         "credit": 0,
         "raw_balance": 550494.57
       },
       {
-        "date": "28 Dec 24",
+        "date": "2024-12-28",
         "description": "UBER 5326*6906 23 DEC",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 550484.57
       },
       {
-        "date": "30 Dec 24",
+        "date": "2024-12-30",
         "description": "VOD PREPAID 0722467368",
         "debit": -89.0,
         "credit": 0,
         "raw_balance": 550395.57
       },
       {
-        "date": "30 Dec 24",
+        "date": "2024-12-30",
         "description": "VCARE RUSTENB 5222*0536 24 DEC",
         "debit": -557.19,
         "credit": 0,
         "raw_balance": 549838.38
       },
       {
-        "date": "30 Dec 24",
+        "date": "2024-12-30",
         "description": "SAMSAQUARIUM 5222*0536 27 DEC",
         "debit": -1526.0,
         "credit": 0,
         "raw_balance": 548312.38
       },
       {
-        "date": "30 Dec 24",
+        "date": "2024-12-30",
         "description": "NESPRESSO CAN 5222*0536 27 DEC",
         "debit": -240.0,
         "credit": 0,
         "raw_balance": 548072.38
       },
       {
-        "date": "30 Dec 24",
+        "date": "2024-12-30",
         "description": "WOOLWORTHS 5326*6906 26 DEC",
         "debit": -1242.52,
         "credit": 0,
         "raw_balance": 546829.86
       },
       {
-        "date": "30 Dec 24",
+        "date": "2024-12-30",
         "description": "WOOLWORTHS 5326*6906 27 DEC",
         "debit": -79.98,
         "credit": 0,
         "raw_balance": 546749.88
       },
       {
-        "date": "30 Dec 24",
+        "date": "2024-12-30",
         "description": "ABSOLUTE PETS 5326*6906 24 DEC",
         "debit": -324.0,
         "credit": 0,
         "raw_balance": 546425.88
       },
       {
-        "date": "30 Dec 24",
+        "date": "2024-12-30",
         "description": "POTTER CHARLOTIT24362ZA0718721",
         "debit": -85.75,
         "credit": 0,
         "raw_balance": 546340.13
       },
       {
-        "date": "30 Dec 24",
+        "date": "2024-12-30",
         "description": "POTTER CHARLOTIT24362ZA0718721",
         "debit": 0,
         "credit": 2030.14,
         "raw_balance": 548370.27
       },
       {
-        "date": "31 Dec 24",
+        "date": "2024-12-31",
         "description": "MRPRICEH CANA 5222*0536 28 DEC",
         "debit": -2308.89,
         "credit": 0,
         "raw_balance": 546061.38
       },
       {
-        "date": "31 Dec 24",
+        "date": "2024-12-31",
         "description": "ALPHEN VETERI 5222*0536 27 DEC",
         "debit": -2331.5,
         "credit": 0,
         "raw_balance": 543729.88
       },
       {
-        "date": "31 Dec 24",
+        "date": "2024-12-31",
         "description": "KWIKSPAR WEST 5222*0536 28 DEC",
         "debit": -408.46,
         "credit": 0,
         "raw_balance": 543321.42
       },
       {
-        "date": "31 Dec 24",
+        "date": "2024-12-31",
         "description": "CHECKERS CENT 5222*0536 27 DEC",
         "debit": -246.96,
         "credit": 0,
         "raw_balance": 543074.46
       },
       {
-        "date": "31 Dec 24",
+        "date": "2024-12-31",
         "description": "WOOLWORTHS 5222*0536 28 DEC",
         "debit": -1490.78,
         "credit": 0,
         "raw_balance": 541583.68
       },
       {
-        "date": "31 Dec 24",
+        "date": "2024-12-31",
         "description": "ADVANCE CANAL 5222*0536 27 DEC",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 541573.68
       },
       {
-        "date": "31 Dec 24",
+        "date": "2024-12-31",
         "description": "UBER 5326*6906 28 DEC",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 541523.68
       },
       {
-        "date": "31 Dec 24",
+        "date": "2024-12-31",
         "description": "PNP EXP PINEL 5326*6906 28 DEC",
         "debit": -35.8,
         "credit": 0,
         "raw_balance": 541487.88
       },
       {
-        "date": "31 Dec 24",
+        "date": "2024-12-31",
         "description": "ACSA CIA 5326*6906 27 DEC",
         "debit": -28.0,
         "credit": 0,
         "raw_balance": 541459.88
       },
       {
-        "date": "31 Dec 24",
+        "date": "2024-12-31",
         "description": "SHELL CAMPGRO 5326*6906 29 DEC",
         "debit": -1236.45,
         "credit": 0,
         "raw_balance": 540223.43
       },
       {
-        "date": "31 Dec 24",
+        "date": "2024-12-31",
         "description": "UBER 5326*6906 28 DEC",
         "debit": -55.0,
         "credit": 0,
         "raw_balance": 540168.43
       },
       {
-        "date": "31 Dec 24",
+        "date": "2024-12-31",
         "description": "UBER 5326*6906 28 DEC",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 540148.43
       },
       {
-        "date": "31 Dec 24",
+        "date": "2024-12-31",
         "description": "UBER 5326*6906 28 DEC",
         "debit": -60.0,
         "credit": 0,
         "raw_balance": 540088.43
       },
       {
-        "date": "31 Dec 24",
+        "date": "2024-12-31",
         "description": "UBER 5326*6906 28 DEC",
         "debit": -40.0,
         "credit": 0,
         "raw_balance": 540048.43
       },
       {
-        "date": "31 Dec 24",
+        "date": "2024-12-31",
         "description": "I BUTLERS PIZ 5326*6906 29 DEC",
         "debit": -1197.61,
         "credit": 0,
         "raw_balance": 538850.82
       },
       {
-        "date": "31 Dec 24",
+        "date": "2024-12-31",
         "description": "UBER 5326*6906 28 DEC",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 538830.82
       },
       {
-        "date": "31 Dec 24",
+        "date": "2024-12-31",
         "description": "ADT CPT 6114011616ADT1047569",
         "debit": -1055.92,
         "credit": 0,
         "raw_balance": 537774.9
       },
       {
-        "date": "31 Dec 24",
+        "date": "2024-12-31",
         "description": "0000000071465650 00134 R40.20",
         "debit": -40.2,
         "credit": 0,
         "raw_balance": 537734.7
       },
       {
-        "date": "02 Jan 25",
+        "date": "2025-01-02",
         "description": "ABUNDANCE RECYCLING RECYCLING",
         "debit": -150.0,
         "credit": 0,
         "raw_balance": 537584.7
       },
       {
-        "date": "02 Jan 25",
+        "date": "2025-01-02",
         "description": "ACSA CIA 5222*0536 29 DEC",
         "debit": -28.0,
         "credit": 0,
         "raw_balance": 537556.7
       },
       {
-        "date": "02 Jan 25",
+        "date": "2025-01-02",
         "description": "PALISIS AG 5222*0536 30 DEC",
         "debit": -2376.0,
         "credit": 0,
         "raw_balance": 535180.7
       },
       {
-        "date": "02 Jan 25",
+        "date": "2025-01-02",
         "description": "YOCO *CMEDH 5222*0536 30 DEC",
         "debit": -753.7,
         "credit": 0,
         "raw_balance": 534427.0
       },
       {
-        "date": "02 Jan 25",
+        "date": "2025-01-02",
         "description": "#INTERNATIONAL5222625462250536",
         "debit": -65.34,
         "credit": 0,
         "raw_balance": 534361.66
       },
       {
-        "date": "02 Jan 25",
+        "date": "2025-01-02",
         "description": "U*DINEPLAN WE 5222*0536 29 DEC",
         "debit": -3486.0,
         "credit": 0,
         "raw_balance": 530875.66
       },
       {
-        "date": "02 Jan 25",
+        "date": "2025-01-02",
         "description": "ADVANCE CANAL 5222*0536 28 DEC",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 530865.66
       },
       {
-        "date": "02 Jan 25",
+        "date": "2025-01-02",
         "description": "WOOLWORTHS 5222*0536 30 DEC",
         "debit": -1530.18,
         "credit": 0,
         "raw_balance": 529335.48
       },
       {
-        "date": "02 Jan 25",
+        "date": "2025-01-02",
         "description": "ACSA CIA 5326*6906 29 DEC",
         "debit": -28.0,
         "credit": 0,
         "raw_balance": 529307.48
       },
       {
-        "date": "02 Jan 25",
+        "date": "2025-01-02",
         "description": "KWIKSPAR WEST 5326*6906 30 DEC",
         "debit": -593.38,
         "credit": 0,
         "raw_balance": 528714.1
       },
       {
-        "date": "02 Jan 25",
+        "date": "2025-01-02",
         "description": "C*HPY*AIYARA 5326*6906 28 DEC",
         "debit": -607.0,
         "credit": 0,
         "raw_balance": 528107.1
       },
       {
-        "date": "02 Jan 25",
+        "date": "2025-01-02",
         "description": "CITY ROCK 00000001883119250101",
         "debit": -430.0,
         "credit": 0,
         "raw_balance": 527677.1
       },
       {
-        "date": "03 Jan 25",
+        "date": "2025-01-03",
         "description": "ANA POTTER",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 527627.1
       },
       {
-        "date": "03 Jan 25",
+        "date": "2025-01-03",
         "description": "LIAM POTTER",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 527577.1
       },
       {
-        "date": "03 Jan 25",
+        "date": "2025-01-03",
         "description": "U*PAYGATE*THE 5222*0536 30 DEC",
         "debit": -1785.0,
         "credit": 0,
         "raw_balance": 525792.1
       },
       {
-        "date": "03 Jan 25",
+        "date": "2025-01-03",
         "description": "V A WATERFRON 5222*0536 30 DEC",
         "debit": -40.0,
         "credit": 0,
         "raw_balance": 525752.1
       },
       {
-        "date": "03 Jan 25",
+        "date": "2025-01-03",
         "description": "WOOLWORTHS 5326*6906 31 DEC",
         "debit": -1338.82,
         "credit": 0,
         "raw_balance": 524413.28
       },
       {
-        "date": "03 Jan 25",
+        "date": "2025-01-03",
         "description": "I WEB AFRICA 5326*6906 01 JAN",
         "debit": -1249.0,
         "credit": 0,
         "raw_balance": 523164.28
       },
       {
-        "date": "03 Jan 25",
+        "date": "2025-01-03",
         "description": "V A WATERFRON 5326*6906 30 DEC",
         "debit": -40.0,
         "credit": 0,
         "raw_balance": 523124.28
       },
       {
-        "date": "04 Jan 25",
+        "date": "2025-01-04",
         "description": "VCARE RUSTENB 5326*6906 01 JAN",
         "debit": -562.73,
         "credit": 0,
         "raw_balance": 522561.55
       },
       {
-        "date": "04 Jan 25",
+        "date": "2025-01-04",
         "description": "HPY*TABBY ART 5222*0536 01 JAN",
         "debit": -120.0,
         "credit": 0,
         "raw_balance": 522441.55
       },
       {
-        "date": "04 Jan 25",
+        "date": "2025-01-04",
         "description": "YOCO *FULL 5222*0536 01 JAN",
         "debit": -330.0,
         "credit": 0,
         "raw_balance": 522111.55
       },
       {
-        "date": "04 Jan 25",
+        "date": "2025-01-04",
         "description": "VOD PREPAID 0824222503",
         "debit": -89.0,
         "credit": 0,
         "raw_balance": 522022.55
       },
       {
-        "date": "04 Jan 25",
+        "date": "2025-01-04",
         "description": "STUDIO2PILATES PILATES",
         "debit": -1840.0,
         "credit": 0,
         "raw_balance": 520182.55
       },
       {
-        "date": "06 Jan 25",
+        "date": "2025-01-06",
         "description": "V A WATERFRON 5222*0536 02 JAN",
         "debit": -25.0,
         "credit": 0,
         "raw_balance": 520157.55
       },
       {
-        "date": "06 Jan 25",
+        "date": "2025-01-06",
         "description": "CHAPMANS PEAK 5326*6906 03 JAN",
         "debit": -64.0,
         "credit": 0,
         "raw_balance": 520093.55
       },
       {
-        "date": "06 Jan 25",
+        "date": "2025-01-06",
         "description": "VCARE RUSTENB 5326*6906 02 JAN",
         "debit": -52.8,
         "credit": 0,
         "raw_balance": 520040.75
       },
       {
-        "date": "06 Jan 25",
+        "date": "2025-01-06",
         "description": "UBER 5326*6906 02 JAN",
         "debit": -39.0,
         "credit": 0,
         "raw_balance": 520001.75
       },
       {
-        "date": "06 Jan 25",
+        "date": "2025-01-06",
         "description": "CAPE POINT 5326*6906 03 JAN",
         "debit": -890.0,
         "credit": 0,
         "raw_balance": 519111.75
       },
       {
-        "date": "06 Jan 25",
+        "date": "2025-01-06",
         "description": "UBER 5326*6906 02 JAN",
         "debit": -49.0,
         "credit": 0,
         "raw_balance": 519062.75
       },
       {
-        "date": "06 Jan 25",
+        "date": "2025-01-06",
         "description": "UBER 5326*6906 02 JAN",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 519052.75
       },
       {
-        "date": "06 Jan 25",
+        "date": "2025-01-06",
         "description": "U*TABLE MOUNT 5326*6906 02 JAN",
         "debit": -2580.0,
         "credit": 0,
         "raw_balance": 516472.75
       },
       {
-        "date": "06 Jan 25",
+        "date": "2025-01-06",
         "description": "TWO OCEANS RE 5326*6906 03 JAN",
         "debit": -3140.0,
         "credit": 0,
         "raw_balance": 513332.75
       },
       {
-        "date": "07 Jan 25",
+        "date": "2025-01-07",
         "description": "WOOLWORTHS 5222*0536 04 JAN",
         "debit": -2282.44,
         "credit": 0,
         "raw_balance": 511050.31
       },
       {
-        "date": "07 Jan 25",
+        "date": "2025-01-07",
         "description": "BOULDERS PENG 5222*0536 05 JAN",
         "debit": -200.0,
         "credit": 0,
         "raw_balance": 510850.31
       },
       {
-        "date": "07 Jan 25",
+        "date": "2025-01-07",
         "description": "SHELL CAMPGRO 5222*0536 05 JAN",
         "debit": -1252.35,
         "credit": 0,
         "raw_balance": 509597.96
       },
       {
-        "date": "07 Jan 25",
+        "date": "2025-01-07",
         "description": "TMNP BOULDERS 5326*6906 05 JAN",
         "debit": -150.0,
         "credit": 0,
         "raw_balance": 509447.96
       },
       {
-        "date": "07 Jan 25",
+        "date": "2025-01-07",
         "description": "KWIKSPAR WEST 5326*6906 04 JAN",
         "debit": -475.84,
         "credit": 0,
         "raw_balance": 508972.12
       },
       {
-        "date": "07 Jan 25",
+        "date": "2025-01-07",
         "description": "ENGEN WINELDS 5326*6906 05 JAN",
         "debit": -712.8,
         "credit": 0,
         "raw_balance": 508259.32
       },
       {
-        "date": "07 Jan 25",
+        "date": "2025-01-07",
         "description": "SHELL CAMPGRO 5326*6906 04 JAN",
         "debit": -196.0,
         "credit": 0,
         "raw_balance": 508063.32
       },
       {
-        "date": "08 Jan 25",
+        "date": "2025-01-08",
         "description": "WOOLWORTHS 5326*6906 05 JAN",
         "debit": -476.92,
         "credit": 0,
         "raw_balance": 507586.4
       },
       {
-        "date": "08 Jan 25",
+        "date": "2025-01-08",
         "description": "U*ACROBRANCH 5326*6906 03 JAN",
         "debit": -1625.0,
         "credit": 0,
         "raw_balance": 505961.4
       },
       {
-        "date": "08 Jan 25",
+        "date": "2025-01-08",
         "description": "SPUR SOARING 5326*6906 06 JAN",
         "debit": -610.0,
         "credit": 0,
         "raw_balance": 505351.4
       },
       {
-        "date": "08 Jan 25",
+        "date": "2025-01-08",
         "description": "I BUTLERS PIZ 5326*6906 07 JAN",
         "debit": -473.74,
         "credit": 0,
         "raw_balance": 504877.66
       },
       {
-        "date": "08 Jan 25",
+        "date": "2025-01-08",
         "description": "YOCO *LEGO 5222*0536 05 JAN",
         "debit": -129.0,
         "credit": 0,
         "raw_balance": 504748.66
       },
       {
-        "date": "08 Jan 25",
+        "date": "2025-01-08",
         "description": "ALL LEATHER 5222*0536 04 JAN",
         "debit": -800.0,
         "credit": 0,
         "raw_balance": 503948.66
       },
       {
-        "date": "09 Jan 25",
+        "date": "2025-01-09",
         "description": "KARRI MAIN 5326*6906 06 JAN",
         "debit": -6800.0,
         "credit": 0,
         "raw_balance": 497148.66
       },
       {
-        "date": "09 Jan 25",
+        "date": "2025-01-09",
         "description": "ACSA CIA 5222*0536 06 JAN",
         "debit": -82.0,
         "credit": 0,
         "raw_balance": 497066.66
       },
       {
-        "date": "09 Jan 25",
+        "date": "2025-01-09",
         "description": "PHYSIOSCPT 5222*0536 07 JAN",
         "debit": -1700.0,
         "credit": 0,
         "raw_balance": 495366.66
       },
       {
-        "date": "09 Jan 25",
+        "date": "2025-01-09",
         "description": "APPLE.COM/BIL 5222*8649 07 JAN",
         "debit": -124.99,
         "credit": 0,
         "raw_balance": 495241.67
       },
       {
-        "date": "09 Jan 25",
+        "date": "2025-01-09",
         "description": "#INTERNATIONAL5222625468348649",
         "debit": -4.37,
         "credit": 0,
         "raw_balance": 495237.3
       },
       {
-        "date": "09 Jan 25",
+        "date": "2025-01-09",
         "description": "#INTERNATIONAL5222625468348649",
         "debit": -3.44,
         "credit": 0,
         "raw_balance": 495233.86
       },
       {
-        "date": "09 Jan 25",
+        "date": "2025-01-09",
         "description": "NETFLIX.COM 5222*8649 08 JAN",
         "debit": -159.0,
         "credit": 0,
         "raw_balance": 495074.86
       },
       {
-        "date": "10 Jan 25",
+        "date": "2025-01-10",
         "description": "ANA POTTER",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 495024.86
       },
       {
-        "date": "10 Jan 25",
+        "date": "2025-01-10",
         "description": "LIAM POTTER",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 494974.86
       },
       {
-        "date": "10 Jan 25",
+        "date": "2025-01-10",
         "description": "UBER 5326*6906 07 JAN",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 494924.86
       },
       {
-        "date": "10 Jan 25",
+        "date": "2025-01-10",
         "description": "UBER 5326*6906 07 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 494904.86
       },
       {
-        "date": "10 Jan 25",
+        "date": "2025-01-10",
         "description": "UBER 5326*6906 07 JAN",
         "debit": -48.0,
         "credit": 0,
         "raw_balance": 494856.86
       },
       {
-        "date": "10 Jan 25",
+        "date": "2025-01-10",
         "description": "UBER 5326*6906 07 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 494836.86
       },
       {
-        "date": "10 Jan 25",
+        "date": "2025-01-10",
         "description": "VAS00100349147",
         "debit": -1000.0,
         "credit": 0,
         "raw_balance": 493836.86
       },
       {
-        "date": "11 Jan 25",
+        "date": "2025-01-11",
         "description": "H&M CANAL WAL 5222*0536 09 JAN",
         "debit": -398.0,
         "credit": 0,
         "raw_balance": 493438.86
       },
       {
-        "date": "11 Jan 25",
+        "date": "2025-01-11",
         "description": "DISCHEM CANAL 5222*0536 09 JAN",
         "debit": -1014.18,
         "credit": 0,
         "raw_balance": 492424.68
       },
       {
-        "date": "11 Jan 25",
+        "date": "2025-01-11",
         "description": "WOOLWORTHS 5222*0536 09 JAN",
         "debit": -1666.71,
         "credit": 0,
         "raw_balance": 490757.97
       },
       {
-        "date": "11 Jan 25",
+        "date": "2025-01-11",
         "description": "YOCO *LEGO 5222*0536 09 JAN",
         "debit": -129.0,
         "credit": 0,
         "raw_balance": 490628.97
       },
       {
-        "date": "13 Jan 25",
+        "date": "2025-01-13",
         "description": "*****1776171 10H21 *****0067",
         "debit": -11200.0,
         "credit": 0,
         "raw_balance": 479428.97
       },
       {
-        "date": "13 Jan 25",
+        "date": "2025-01-13",
         "description": "VOD PREPAID 0725070575",
         "debit": -89.0,
         "credit": 0,
         "raw_balance": 479339.97
       },
       {
-        "date": "13 Jan 25",
+        "date": "2025-01-13",
         "description": "00003951 2025-01-12T17:01:38 5222*0536",
         "debit": -3000.0,
         "credit": 0,
         "raw_balance": 476339.97
       },
       {
-        "date": "13 Jan 25",
+        "date": "2025-01-13",
         "description": "UBER 5326*6906 09 JAN",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 476329.97
       },
       {
-        "date": "13 Jan 25",
+        "date": "2025-01-13",
         "description": "WOOLWORTHS 5326*6906 10 JAN",
         "debit": -1492.21,
         "credit": 0,
         "raw_balance": 474837.76
       },
       {
-        "date": "13 Jan 25",
+        "date": "2025-01-13",
         "description": "M*HTTPS://WWW 5326*6906 09 JAN",
         "debit": -48.0,
         "credit": 0,
         "raw_balance": 474789.76
       },
       {
-        "date": "13 Jan 25",
+        "date": "2025-01-13",
         "description": "M*HTTPS://WWW 5326*6906 09 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 474769.76
       },
       {
-        "date": "13 Jan 25",
+        "date": "2025-01-13",
         "description": "UBER 5326*6906 09 JAN",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 474719.76
       },
       {
-        "date": "13 Jan 25",
+        "date": "2025-01-13",
         "description": "UBER 5326*6906 09 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 474699.76
       },
       {
-        "date": "13 Jan 25",
+        "date": "2025-01-13",
         "description": "UBER 5326*6906 09 JAN",
         "debit": -142.0,
         "credit": 0,
         "raw_balance": 474557.76
       },
       {
-        "date": "13 Jan 25",
+        "date": "2025-01-13",
         "description": "ADVANCE CANAL 5222*0536 09 JAN",
         "debit": -11.0,
         "credit": 0,
         "raw_balance": 474546.76
       },
       {
-        "date": "14 Jan 25",
+        "date": "2025-01-14",
         "description": "FLW*UBER EATS 5222*0536 12 JAN",
         "debit": -552.9,
         "credit": 0,
         "raw_balance": 473993.86
       },
       {
-        "date": "14 Jan 25",
+        "date": "2025-01-14",
         "description": "KWIKSPAR WEST 5222*0536 11 JAN",
         "debit": -635.31,
         "credit": 0,
         "raw_balance": 473358.55
       },
       {
-        "date": "14 Jan 25",
+        "date": "2025-01-14",
         "description": "UBER 5326*6906 11 JAN",
         "debit": -39.0,
         "credit": 0,
         "raw_balance": 473319.55
       },
       {
-        "date": "14 Jan 25",
+        "date": "2025-01-14",
         "description": "UBER 5326*6906 11 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 473299.55
       },
       {
-        "date": "14 Jan 25",
+        "date": "2025-01-14",
         "description": "UBER 5326*6906 11 JAN",
         "debit": -48.0,
         "credit": 0,
         "raw_balance": 473251.55
       },
       {
-        "date": "14 Jan 25",
+        "date": "2025-01-14",
         "description": "UBER 5326*6906 11 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 473231.55
       },
       {
-        "date": "15 Jan 25",
+        "date": "2025-01-15",
         "description": "PHYSIOSCPT 5326*6906 13 JAN",
         "debit": -700.0,
         "credit": 0,
         "raw_balance": 472531.55
       },
       {
-        "date": "15 Jan 25",
+        "date": "2025-01-15",
         "description": "I BUTLERS PIZ 5326*6906 14 JAN",
         "debit": -353.86,
         "credit": 0,
         "raw_balance": 472177.69
       },
       {
-        "date": "15 Jan 25",
+        "date": "2025-01-15",
         "description": "SEATTLE BELVE 5326*6906 13 JAN",
         "debit": -79.0,
         "credit": 0,
         "raw_balance": 472098.69
       },
       {
-        "date": "15 Jan 25",
+        "date": "2025-01-15",
         "description": "FLW*UBER TRIP 5222*0536 13 JAN",
         "debit": -65.0,
         "credit": 0,
         "raw_balance": 472033.69
       },
       {
-        "date": "15 Jan 25",
+        "date": "2025-01-15",
         "description": "PNA CANAL WAL 5222*0536 12 JAN",
         "debit": -3150.52,
         "credit": 0,
         "raw_balance": 468883.17
       },
       {
-        "date": "15 Jan 25",
+        "date": "2025-01-15",
         "description": "SEATTLE CANAL 5222*0536 12 JAN",
         "debit": -167.0,
         "credit": 0,
         "raw_balance": 468716.17
       },
       {
-        "date": "15 Jan 25",
+        "date": "2025-01-15",
         "description": "ADVANCE CANAL 5222*0536 12 JAN",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 468706.17
       },
       {
-        "date": "16 Jan 25",
+        "date": "2025-01-16",
         "description": "PNA CANAL WAL 5326*6906 14 JAN",
         "debit": -47.97,
         "credit": 0,
         "raw_balance": 468658.2
       },
       {
-        "date": "16 Jan 25",
+        "date": "2025-01-16",
         "description": "M*HTTPS://WWW 5326*6906 14 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 468638.2
       },
       {
-        "date": "16 Jan 25",
+        "date": "2025-01-16",
         "description": "M*HTTPS://WWW 5326*6906 14 JAN",
         "debit": -65.0,
         "credit": 0,
         "raw_balance": 468573.2
       },
       {
-        "date": "16 Jan 25",
+        "date": "2025-01-16",
         "description": "C*CANNONS CRE 5326*6906 14 JAN",
         "debit": -3490.0,
         "credit": 0,
         "raw_balance": 465083.2
       },
       {
-        "date": "16 Jan 25",
+        "date": "2025-01-16",
         "description": "C*NIKE CANAL 5326*6906 14 JAN",
         "debit": -2399.99,
         "credit": 0,
         "raw_balance": 462683.21
       },
       {
-        "date": "16 Jan 25",
+        "date": "2025-01-16",
         "description": "FLW*UBER TRIP 5222*0536 13 JAN",
         "debit": -60.0,
         "credit": 0,
         "raw_balance": 462623.21
       },
       {
-        "date": "16 Jan 25",
+        "date": "2025-01-16",
         "description": "M*HTTPS://WWW 5222*0536 14 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 462603.21
       },
       {
-        "date": "16 Jan 25",
+        "date": "2025-01-16",
         "description": "M*HTTPS://WWW 5222*0536 14 JAN",
         "debit": -49.0,
         "credit": 0,
         "raw_balance": 462554.21
       },
       {
-        "date": "17 Jan 25",
+        "date": "2025-01-17",
         "description": "A SARS 0974736142 3479",
         "debit": 0,
         "credit": 5750.0,
         "raw_balance": 468304.21
       },
       {
-        "date": "17 Jan 25",
+        "date": "2025-01-17",
         "description": "ANA POTTER",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 468254.21
       },
       {
-        "date": "17 Jan 25",
+        "date": "2025-01-17",
         "description": "LIAM POTTER",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 468204.21
       },
       {
-        "date": "17 Jan 25",
+        "date": "2025-01-17",
         "description": "WOOLWORTHS 5326*6906 15 JAN",
         "debit": -979.87,
         "credit": 0,
         "raw_balance": 467224.34
       },
       {
-        "date": "17 Jan 25",
+        "date": "2025-01-17",
         "description": "M*HTTPS://WWW 5326*6906 15 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 467204.34
       },
       {
-        "date": "17 Jan 25",
+        "date": "2025-01-17",
         "description": "M*HTTPS://WWW 5326*6906 15 JAN",
         "debit": -71.0,
         "credit": 0,
         "raw_balance": 467133.34
       },
       {
-        "date": "17 Jan 25",
+        "date": "2025-01-17",
         "description": "#INTERNATIONAL5222625468348649",
         "debit": -398.1,
         "credit": 0,
         "raw_balance": 466735.24
       },
       {
-        "date": "17 Jan 25",
+        "date": "2025-01-17",
         "description": "ADOBE 5222*8649 15 JAN",
         "debit": -14476.2,
         "credit": 0,
         "raw_balance": 452259.04
       },
       {
-        "date": "17 Jan 25",
+        "date": "2025-01-17",
         "description": "M*HTTPS://WWW 5326*6906 15 JAN",
         "debit": -124.0,
         "credit": 0,
         "raw_balance": 452135.04
       },
       {
-        "date": "17 Jan 25",
+        "date": "2025-01-17",
         "description": "ADVANCE CANAL 5326*6906 14 JAN",
         "debit": -11.0,
         "credit": 0,
         "raw_balance": 452124.04
       },
       {
-        "date": "17 Jan 25",
+        "date": "2025-01-17",
         "description": "M*HTTPS://WWW 5326*6906 15 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 452104.04
       },
       {
-        "date": "17 Jan 25",
+        "date": "2025-01-17",
         "description": "M&B CANAL WAL 5326*6906 14 JAN",
         "debit": -350.0,
         "credit": 0,
         "raw_balance": 451754.04
       },
       {
-        "date": "17 Jan 25",
+        "date": "2025-01-17",
         "description": "VOD PREPAID 0646941483",
         "debit": -89.0,
         "credit": 0,
         "raw_balance": 451665.04
       },
       {
-        "date": "18 Jan 25",
+        "date": "2025-01-18",
         "description": "M*HTTPS://WWW 5326*6906 16 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 451645.04
       },
       {
-        "date": "18 Jan 25",
+        "date": "2025-01-18",
         "description": "M*HTTPS://WWW 5326*6906 16 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 451625.04
       },
       {
-        "date": "18 Jan 25",
+        "date": "2025-01-18",
         "description": "M*HTTPS://WWW 5326*6906 16 JAN",
         "debit": -113.0,
         "credit": 0,
         "raw_balance": 451512.04
       },
       {
-        "date": "18 Jan 25",
+        "date": "2025-01-18",
         "description": "I*DL *AMAZON 5326*6906 15 JAN",
         "debit": -79.0,
         "credit": 0,
         "raw_balance": 451433.04
       },
       {
-        "date": "20 Jan 25",
+        "date": "2025-01-20",
         "description": "0000A049 2025-01-19T14:12:09 5222*0536",
         "debit": -2000.0,
         "credit": 0,
         "raw_balance": 449433.04
       },
       {
-        "date": "20 Jan 25",
+        "date": "2025-01-20",
         "description": "M*HTTPS://WWW 5326*6906 17 JAN",
         "debit": -90.0,
         "credit": 0,
         "raw_balance": 449343.04
       },
       {
-        "date": "20 Jan 25",
+        "date": "2025-01-20",
         "description": "M*HTTPS://WWW 5326*6906 17 JAN",
         "debit": -60.0,
         "credit": 0,
         "raw_balance": 449283.04
       },
       {
-        "date": "20 Jan 25",
+        "date": "2025-01-20",
         "description": "M*HTTPS://WWW 5326*6906 16 JAN",
         "debit": -57.0,
         "credit": 0,
         "raw_balance": 449226.04
       },
       {
-        "date": "20 Jan 25",
+        "date": "2025-01-20",
         "description": "M*HTTPS://WWW 5326*6906 16 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 449206.04
       },
       {
-        "date": "20 Jan 25",
+        "date": "2025-01-20",
         "description": "HTTPS://WWW.U 5326*6906 16 JAN",
         "debit": -52.0,
         "credit": 0,
         "raw_balance": 449154.04
       },
       {
-        "date": "20 Jan 25",
+        "date": "2025-01-20",
         "description": "M*HTTPS://WWW 5326*6906 17 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 449134.04
       },
       {
-        "date": "20 Jan 25",
+        "date": "2025-01-20",
         "description": "MS F SLAMDIEN MIA HAIR",
         "debit": -1750.0,
         "credit": 0,
         "raw_balance": 447384.04
       },
       {
-        "date": "20 Jan 25",
+        "date": "2025-01-20",
         "description": "M.MARTIN RAW GOLD",
         "debit": -3221.5,
         "credit": 0,
         "raw_balance": 444162.54
       },
       {
-        "date": "20 Jan 25",
+        "date": "2025-01-20",
         "description": "CMAHC KUNGFU",
         "debit": -1510.0,
         "credit": 0,
         "raw_balance": 442652.54
       },
       {
-        "date": "21 Jan 25",
+        "date": "2025-01-21",
         "description": "APPLE.COM/BIL 5222*8649 19 JAN",
         "debit": -34.99,
         "credit": 0,
         "raw_balance": 442617.55
       },
       {
-        "date": "21 Jan 25",
+        "date": "2025-01-21",
         "description": "#INTERNATIONAL5222625468348649",
         "debit": -0.96,
         "credit": 0,
         "raw_balance": 442616.59
       },
       {
-        "date": "21 Jan 25",
+        "date": "2025-01-21",
         "description": "KWIKSPAR WEST 5222*0536 18 JAN",
         "debit": -284.47,
         "credit": 0,
         "raw_balance": 442332.12
       },
       {
-        "date": "21 Jan 25",
+        "date": "2025-01-21",
         "description": "HPY*AIYARA TH 5326*6906 17 JAN",
         "debit": -613.0,
         "credit": 0,
         "raw_balance": 441719.12
       },
       {
-        "date": "21 Jan 25",
+        "date": "2025-01-21",
         "description": "HTTPS://WWW.U 5326*6906 17 JAN",
         "debit": -60.0,
         "credit": 0,
         "raw_balance": 441659.12
       },
       {
-        "date": "22 Jan 25",
+        "date": "2025-01-22",
         "description": "ADVANCE CANAL 5222*0536 19 JAN",
         "debit": -11.0,
         "credit": 0,
         "raw_balance": 441648.12
       },
       {
-        "date": "22 Jan 25",
+        "date": "2025-01-22",
         "description": "M&B CANAL WAL 5222*0536 19 JAN",
         "debit": -520.0,
         "credit": 0,
         "raw_balance": 441128.12
       },
       {
-        "date": "22 Jan 25",
+        "date": "2025-01-22",
         "description": "M*HTTPS://WWW 5222*0536 20 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 441108.12
       },
       {
-        "date": "22 Jan 25",
+        "date": "2025-01-22",
         "description": "DISCHEM CANAL 5222*0536 19 JAN",
         "debit": -720.38,
         "credit": 0,
         "raw_balance": 440387.74
       },
       {
-        "date": "22 Jan 25",
+        "date": "2025-01-22",
         "description": "M*HTTPS://WWW 5222*0536 20 JAN",
         "debit": -90.0,
         "credit": 0,
         "raw_balance": 440297.74
       },
       {
-        "date": "22 Jan 25",
+        "date": "2025-01-22",
         "description": "H&M CANAL WAL 5222*0536 19 JAN",
         "debit": -1624.5,
         "credit": 0,
         "raw_balance": 438673.24
       },
       {
-        "date": "22 Jan 25",
+        "date": "2025-01-22",
         "description": "PNA CANAL WAL 5222*0536 19 JAN",
         "debit": -801.91,
         "credit": 0,
         "raw_balance": 437871.33
       },
       {
-        "date": "22 Jan 25",
+        "date": "2025-01-22",
         "description": "M*HTTPS://WWW 5326*6906 20 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 437851.33
       },
       {
-        "date": "22 Jan 25",
+        "date": "2025-01-22",
         "description": "M*HTTPS://WWW 5326*6906 20 JAN",
         "debit": -40.0,
         "credit": 0,
         "raw_balance": 437811.33
       },
       {
-        "date": "22 Jan 25",
+        "date": "2025-01-22",
         "description": "M*HTTPS://WWW 5326*6906 20 JAN",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 437801.33
       },
       {
-        "date": "22 Jan 25",
+        "date": "2025-01-22",
         "description": "M*HTTPS://WWW 5326*6906 20 JAN",
         "debit": -40.0,
         "credit": 0,
         "raw_balance": 437761.33
       },
       {
-        "date": "22 Jan 25",
+        "date": "2025-01-22",
         "description": "M*HTTPS://WWW 5326*6906 20 JAN",
         "debit": -104.0,
         "credit": 0,
         "raw_balance": 437657.33
       },
       {
-        "date": "22 Jan 25",
+        "date": "2025-01-22",
         "description": "M*HTTPS://WWW 5326*6906 20 JAN",
         "debit": -99.0,
         "credit": 0,
         "raw_balance": 437558.33
       },
       {
-        "date": "22 Jan 25",
+        "date": "2025-01-22",
         "description": "M*HTTPS://WWW 5326*6906 20 JAN",
         "debit": -73.0,
         "credit": 0,
         "raw_balance": 437485.33
       },
       {
-        "date": "22 Jan 25",
+        "date": "2025-01-22",
         "description": "M*HTTPS://WWW 5326*6906 20 JAN",
         "debit": -101.0,
         "credit": 0,
         "raw_balance": 437384.33
       },
       {
-        "date": "22 Jan 25",
+        "date": "2025-01-22",
         "description": "LIAM POTTER",
         "debit": -750.0,
         "credit": 0,
         "raw_balance": 436634.33
       },
       {
-        "date": "22 Jan 25",
+        "date": "2025-01-22",
         "description": "PHYSIOSCPT.CO.ZA ANAPHYSIO",
         "debit": -700.0,
         "credit": 0,
         "raw_balance": 435934.33
       },
       {
-        "date": "22 Jan 25",
+        "date": "2025-01-22",
         "description": "LIBERTY050 0079303356 10615",
         "debit": -4466.19,
         "credit": 0,
         "raw_balance": 431468.14
       },
       {
-        "date": "23 Jan 25",
+        "date": "2025-01-23",
         "description": "M*HTTPS://WWW 5326*6906 21 JAN",
         "debit": -72.0,
         "credit": 0,
         "raw_balance": 431396.14
       },
       {
-        "date": "23 Jan 25",
+        "date": "2025-01-23",
         "description": "M*HTTPS://WWW 5326*6906 21 JAN",
         "debit": -70.0,
         "credit": 0,
         "raw_balance": 431326.14
       },
       {
-        "date": "23 Jan 25",
+        "date": "2025-01-23",
         "description": "M*HTTPS://WWW 5326*6906 21 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 431306.14
       },
       {
-        "date": "23 Jan 25",
+        "date": "2025-01-23",
         "description": "M*HTTPS://WWW 5326*6906 21 JAN",
         "debit": -38.0,
         "credit": 0,
         "raw_balance": 431268.14
       },
       {
-        "date": "23 Jan 25",
+        "date": "2025-01-23",
         "description": "M*HTTPS://WWW 5326*6906 21 JAN",
         "debit": -76.0,
         "credit": 0,
         "raw_balance": 431192.14
       },
       {
-        "date": "24 Jan 25",
+        "date": "2025-01-24",
         "description": "NRF SALARY",
         "debit": 0,
         "credit": 74048.73,
         "raw_balance": 505240.87
       },
       {
-        "date": "24 Jan 25",
+        "date": "2025-01-24",
         "description": "NRF SALARY",
         "debit": 0,
         "credit": 49391.28,
         "raw_balance": 554632.15
       },
       {
-        "date": "24 Jan 25",
+        "date": "2025-01-24",
         "description": "M*HTTPS://WWW 5326*6906 22 JAN",
         "debit": -46.0,
         "credit": 0,
         "raw_balance": 554586.15
       },
       {
-        "date": "24 Jan 25",
+        "date": "2025-01-24",
         "description": "M*HTTPS://WWW 5326*6906 22 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 554566.15
       },
       {
-        "date": "24 Jan 25",
+        "date": "2025-01-24",
         "description": "SHELL CAMPGRO 5326*6906 21 JAN",
         "debit": -1204.75,
         "credit": 0,
         "raw_balance": 553361.4
       },
       {
-        "date": "24 Jan 25",
+        "date": "2025-01-24",
         "description": "WOOLWORTHS 5326*6906 22 JAN",
         "debit": -1133.85,
         "credit": 0,
         "raw_balance": 552227.55
       },
       {
-        "date": "24 Jan 25",
+        "date": "2025-01-24",
         "description": "HTTPS://WWW.U 5326*6906 21 JAN",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 552217.55
       },
       {
-        "date": "24 Jan 25",
+        "date": "2025-01-24",
         "description": "M*HTTPS://WWW 5326*6906 22 JAN",
         "debit": -60.0,
         "credit": 0,
         "raw_balance": 552157.55
       },
       {
-        "date": "24 Jan 25",
+        "date": "2025-01-24",
         "description": "I CITYROCK 5326*6906 22 JAN",
         "debit": -480.0,
         "credit": 0,
         "raw_balance": 551677.55
       },
       {
-        "date": "24 Jan 25",
+        "date": "2025-01-24",
         "description": "HTTPS://WWW.U 5326*6906 21 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 551657.55
       },
       {
-        "date": "24 Jan 25",
+        "date": "2025-01-24",
         "description": "M*HTTPS://WWW 5222*0536 22 JAN",
         "debit": -133.0,
         "credit": 0,
         "raw_balance": 551524.55
       },
       {
-        "date": "25 Jan 25",
+        "date": "2025-01-25",
         "description": "M*HTTPS://WWW 5326*6906 23 JAN",
         "debit": -27.0,
         "credit": 0,
         "raw_balance": 551497.55
       },
       {
-        "date": "25 Jan 25",
+        "date": "2025-01-25",
         "description": "M*HTTPS://WWW 5326*6906 23 JAN",
         "debit": -92.0,
         "credit": 0,
         "raw_balance": 551405.55
       },
       {
-        "date": "25 Jan 25",
+        "date": "2025-01-25",
         "description": "M*HTTPS://WWW 5326*6906 23 JAN",
         "debit": -60.0,
         "credit": 0,
         "raw_balance": 551345.55
       },
       {
-        "date": "25 Jan 25",
+        "date": "2025-01-25",
         "description": "M*HTTPS://WWW 5326*6906 23 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 551325.55
       },
       {
-        "date": "25 Jan 25",
+        "date": "2025-01-25",
         "description": "I BUTLERS PIZ 5326*6906 24 JAN",
         "debit": -243.0,
         "credit": 0,
         "raw_balance": 551082.55
       },
       {
-        "date": "25 Jan 25",
+        "date": "2025-01-25",
         "description": "RETAIL OUTLET 5326*6906 23 JAN",
         "debit": -5.0,
         "credit": 0,
         "raw_balance": 551077.55
       },
       {
-        "date": "25 Jan 25",
+        "date": "2025-01-25",
         "description": "YOCO *DATTE 5326*6906 23 JAN",
         "debit": -262.2,
         "credit": 0,
         "raw_balance": 550815.35
       },
       {
-        "date": "25 Jan 25",
+        "date": "2025-01-25",
         "description": "M*HTTPS://WWW 5326*6906 23 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 550795.35
       },
       {
-        "date": "25 Jan 25",
+        "date": "2025-01-25",
         "description": "M*HTTPS://WWW 5222*0536 23 JAN",
         "debit": -25.0,
         "credit": 0,
         "raw_balance": 550770.35
       },
       {
-        "date": "25 Jan 25",
+        "date": "2025-01-25",
         "description": "M*HTTPS://WWW 5222*0536 23 JAN",
         "debit": -68.0,
         "credit": 0,
         "raw_balance": 550702.35
       },
       {
-        "date": "25 Jan 25",
+        "date": "2025-01-25",
         "description": "AUTOGEN 555471720 FEB 250125",
         "debit": -2674.32,
         "credit": 0,
         "raw_balance": 548028.03
       },
       {
-        "date": "27 Jan 25",
+        "date": "2025-01-27",
         "description": "FLW*UBER TRIP 5326*6906 24 JAN",
         "debit": -99.0,
         "credit": 0,
         "raw_balance": 547929.03
       },
       {
-        "date": "27 Jan 25",
+        "date": "2025-01-27",
         "description": "M*HTTPS://WWW 5326*6906 24 JAN",
         "debit": -67.0,
         "credit": 0,
         "raw_balance": 547862.03
       },
       {
-        "date": "27 Jan 25",
+        "date": "2025-01-27",
         "description": "FLW*UBER TRIP 5326*6906 24 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 547842.03
       },
       {
-        "date": "27 Jan 25",
+        "date": "2025-01-27",
         "description": "FLW*UBER TRIP 5326*6906 24 JAN",
         "debit": -55.0,
         "credit": 0,
         "raw_balance": 547787.03
       },
       {
-        "date": "27 Jan 25",
+        "date": "2025-01-27",
         "description": "M*HTTPS://WWW 5326*6906 23 JAN",
         "debit": -38.0,
         "credit": 0,
         "raw_balance": 547749.03
       },
       {
-        "date": "27 Jan 25",
+        "date": "2025-01-27",
         "description": "M*HTTPS://WWW 5326*6906 23 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 547729.03
       },
       {
-        "date": "27 Jan 25",
+        "date": "2025-01-27",
         "description": "PHYSIOSCPT 5222*0536 24 JAN",
         "debit": -450.0,
         "credit": 0,
         "raw_balance": 547279.03
       },
       {
-        "date": "28 Jan 25",
+        "date": "2025-01-28",
         "description": "CMAHC ANAKFUNIFORM",
         "debit": -1740.0,
         "credit": 0,
         "raw_balance": 545539.03
       },
       {
-        "date": "28 Jan 25",
+        "date": "2025-01-28",
         "description": "FRAICHE AYRES 5326*6906 26 JAN",
         "debit": -660.0,
         "credit": 0,
         "raw_balance": 544879.03
       },
       {
-        "date": "28 Jan 25",
+        "date": "2025-01-28",
         "description": "STARKE AYRES 5326*6906 26 JAN",
         "debit": -2544.2,
         "credit": 0,
         "raw_balance": 542334.83
       },
       {
-        "date": "28 Jan 25",
+        "date": "2025-01-28",
         "description": "FLW*UBER TRIP 5326*6906 25 JAN",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 542324.83
       },
       {
-        "date": "28 Jan 25",
+        "date": "2025-01-28",
         "description": "YOCO *FABU 5222*0536 25 JAN",
         "debit": -680.0,
         "credit": 0,
         "raw_balance": 541644.83
       },
       {
-        "date": "28 Jan 25",
+        "date": "2025-01-28",
         "description": "KWIKSPAR WEST 5222*0536 25 JAN",
         "debit": -606.2,
         "credit": 0,
         "raw_balance": 541038.63
       },
       {
-        "date": "28 Jan 25",
+        "date": "2025-01-28",
         "description": "VOD PREPAID 0722467368",
         "debit": -89.0,
         "credit": 0,
         "raw_balance": 540949.63
       },
       {
-        "date": "29 Jan 25",
+        "date": "2025-01-29",
         "description": "M*HTTPS://WWW 5326*6906 27 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 540929.63
       },
       {
-        "date": "29 Jan 25",
+        "date": "2025-01-29",
         "description": "HTTPS://WWW.U 5326*6906 25 JAN",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 540919.63
       },
       {
-        "date": "29 Jan 25",
+        "date": "2025-01-29",
         "description": "M*HTTPS://WWW 5326*6906 25 JAN",
         "debit": -42.0,
         "credit": 0,
         "raw_balance": 540877.63
       },
       {
-        "date": "29 Jan 25",
+        "date": "2025-01-29",
         "description": "M*HTTPS://WWW 5326*6906 25 JAN",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 540867.63
       },
       {
-        "date": "29 Jan 25",
+        "date": "2025-01-29",
         "description": "M*HTTPS://WWW 5326*6906 25 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 540847.63
       },
       {
-        "date": "29 Jan 25",
+        "date": "2025-01-29",
         "description": "M*HTTPS://WWW 5326*6906 25 JAN",
         "debit": -38.0,
         "credit": 0,
         "raw_balance": 540809.63
       },
       {
-        "date": "29 Jan 25",
+        "date": "2025-01-29",
         "description": "M*HTTPS://WWW 5326*6906 25 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 540789.63
       },
       {
-        "date": "29 Jan 25",
+        "date": "2025-01-29",
         "description": "M*HTTPS://WWW 5326*6906 25 JAN",
         "debit": -73.0,
         "credit": 0,
         "raw_balance": 540716.63
       },
       {
-        "date": "29 Jan 25",
+        "date": "2025-01-29",
         "description": "M*HTTPS://WWW 5326*6906 27 JAN",
         "debit": -151.0,
         "credit": 0,
         "raw_balance": 540565.63
       },
       {
-        "date": "29 Jan 25",
+        "date": "2025-01-29",
         "description": "M*HTTPS://WWW 5326*6906 27 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 540545.63
       },
       {
-        "date": "29 Jan 25",
+        "date": "2025-01-29",
         "description": "C*PARKET RIVE 5326*6906 28 JAN",
         "debit": -5.0,
         "credit": 0,
         "raw_balance": 540540.63
       },
       {
-        "date": "29 Jan 25",
+        "date": "2025-01-29",
         "description": "M*HTTPS://WWW 5326*6906 25 JAN",
         "debit": -76.0,
         "credit": 0,
         "raw_balance": 540464.63
       },
       {
-        "date": "29 Jan 25",
+        "date": "2025-01-29",
         "description": "M*HTTPS://WWW 5326*6906 27 JAN",
         "debit": -60.0,
         "credit": 0,
         "raw_balance": 540404.63
       },
       {
-        "date": "29 Jan 25",
+        "date": "2025-01-29",
         "description": "UBER EATS 5222*0536 26 JAN",
         "debit": -443.19,
         "credit": 0,
         "raw_balance": 539961.44
       },
       {
-        "date": "29 Jan 25",
+        "date": "2025-01-29",
         "description": "CANNONS CREEK IND ANA SCHL FEE",
         "debit": -108134.0,
         "credit": 0,
         "raw_balance": 431827.44
       },
       {
-        "date": "29 Jan 25",
+        "date": "2025-01-29",
         "description": "WYNBERG BOYS HI LIAM SCHL FEES",
         "debit": -66700.0,
         "credit": 0,
         "raw_balance": 365127.44
       },
       {
-        "date": "29 Jan 25",
+        "date": "2025-01-29",
         "description": "PINELANDS TENNIS CLU PTC: BAR",
         "debit": -1053.0,
         "credit": 0,
         "raw_balance": 364074.44
       },
       {
-        "date": "30 Jan 25",
+        "date": "2025-01-30",
         "description": "WOOLWORTHS 5326*6906 28 JAN",
         "debit": -1001.88,
         "credit": 0,
         "raw_balance": 363072.56
       },
       {
-        "date": "30 Jan 25",
+        "date": "2025-01-30",
         "description": "M*HTTPS://WWW 5326*6906 28 JAN",
         "debit": -60.0,
         "credit": 0,
         "raw_balance": 363012.56
       },
       {
-        "date": "30 Jan 25",
+        "date": "2025-01-30",
         "description": "YOCO *DATTE 5326*6906 28 JAN",
         "debit": -243.8,
         "credit": 0,
         "raw_balance": 362768.76
       },
       {
-        "date": "31 Jan 25",
+        "date": "2025-01-31",
         "description": "CAPELLI ON TH 5326*6906 29 JAN",
         "debit": -1235.0,
         "credit": 0,
         "raw_balance": 361533.76
       },
       {
-        "date": "31 Jan 25",
+        "date": "2025-01-31",
         "description": "HTTPS://WWW.U 5326*6906 28 JAN",
         "debit": -63.0,
         "credit": 0,
         "raw_balance": 361470.76
       },
       {
-        "date": "31 Jan 25",
+        "date": "2025-01-31",
         "description": "HTTPS://WWW.U 5326*6906 28 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 361450.76
       },
       {
-        "date": "31 Jan 25",
+        "date": "2025-01-31",
         "description": "0000000071465650 00095 R42.75",
         "debit": -42.75,
         "credit": 0,
         "raw_balance": 361408.01
       },
       {
-        "date": "01 Feb 25",
+        "date": "2025-02-01",
         "description": "M*HTTPS://WWW 5326*6906 29 JAN",
         "debit": -111.0,
         "credit": 0,
         "raw_balance": 361297.01
       },
       {
-        "date": "01 Feb 25",
+        "date": "2025-02-01",
         "description": "VCARE RUSTENB 5326*6906 29 JAN",
         "debit": -3100.5,
         "credit": 0,
         "raw_balance": 358196.51
       },
       {
-        "date": "01 Feb 25",
+        "date": "2025-02-01",
         "description": "M*HTTPS://WWW 5326*6906 29 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 358176.51
       },
       {
-        "date": "01 Feb 25",
+        "date": "2025-02-01",
         "description": "WOOLWORTHS 5326*6906 30 JAN",
         "debit": -585.31,
         "credit": 0,
         "raw_balance": 357591.2
       },
       {
-        "date": "01 Feb 25",
+        "date": "2025-02-01",
         "description": "I BUTLERS PIZ 5326*6906 31 JAN",
         "debit": -494.1,
         "credit": 0,
         "raw_balance": 357097.1
       },
       {
-        "date": "01 Feb 25",
+        "date": "2025-02-01",
         "description": "M*HTTPS://WWW 5326*6906 30 JAN",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 357087.1
       },
       {
-        "date": "01 Feb 25",
+        "date": "2025-02-01",
         "description": "M*HTTPS://WWW 5326*6906 30 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 357067.1
       },
       {
-        "date": "01 Feb 25",
+        "date": "2025-02-01",
         "description": "M*HTTPS://WWW 5326*6906 29 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 357047.1
       },
       {
-        "date": "01 Feb 25",
+        "date": "2025-02-01",
         "description": "M*HTTPS://WWW 5326*6906 29 JAN",
         "debit": -136.0,
         "credit": 0,
         "raw_balance": 356911.1
       },
       {
-        "date": "01 Feb 25",
+        "date": "2025-02-01",
         "description": "M*HTTPS://WWW 5326*6906 30 JAN",
         "debit": -98.0,
         "credit": 0,
         "raw_balance": 356813.1
       },
       {
-        "date": "01 Feb 25",
+        "date": "2025-02-01",
         "description": "M*HTTPS://WWW 5326*6906 30 JAN",
         "debit": -84.0,
         "credit": 0,
         "raw_balance": 356729.1
       },
       {
-        "date": "01 Feb 25",
+        "date": "2025-02-01",
         "description": "M*HTTPS://WWW 5326*6906 29 JAN",
         "debit": -44.0,
         "credit": 0,
         "raw_balance": 356685.1
       },
       {
-        "date": "01 Feb 25",
+        "date": "2025-02-01",
         "description": "HTTPS://WWW.U 5326*6906 29 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 356665.1
       },
       {
-        "date": "01 Feb 25",
+        "date": "2025-02-01",
         "description": "M*HTTPS://WWW 5326*6906 30 JAN",
         "debit": -122.0,
         "credit": 0,
         "raw_balance": 356543.1
       },
       {
-        "date": "01 Feb 25",
+        "date": "2025-02-01",
         "description": "M*HTTPS://WWW 5326*6906 30 JAN",
         "debit": -64.0,
         "credit": 0,
         "raw_balance": 356479.1
       },
       {
-        "date": "01 Feb 25",
+        "date": "2025-02-01",
         "description": "ADT CPT 6114011616ADT2047229",
         "debit": -1055.92,
         "credit": 0,
         "raw_balance": 355423.18
       },
       {
-        "date": "01 Feb 25",
+        "date": "2025-02-01",
         "description": "CITY ROCK 00000001883119250201",
         "debit": -430.0,
         "credit": 0,
         "raw_balance": 354993.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "225019740 MUKURU",
         "debit": -7000.0,
         "credit": 0,
         "raw_balance": 347993.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "FEE IMMEDIATE PAYMENT",
         "debit": -50.0,
         "credit": 0,
         "raw_balance": 347943.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "CHANTELE TALJAARD ANA CHANTELE",
         "debit": -2490.0,
         "credit": 0,
         "raw_balance": 345453.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "STUDIO2PILATES PILATES",
         "debit": -1040.0,
         "credit": 0,
         "raw_balance": 344413.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "ABUNDANCE RECYCLING RECYCLING",
         "debit": -160.0,
         "credit": 0,
         "raw_balance": 344253.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "MUGG AND BEAN 5222*0536 31 JAN",
         "debit": -42.0,
         "credit": 0,
         "raw_balance": 344211.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "M*HTTPS://WWW 5326*6906 31 JAN",
         "debit": -60.0,
         "credit": 0,
         "raw_balance": 344151.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "M*HTTPS://WWW 5326*6906 31 JAN",
         "debit": -120.0,
         "credit": 0,
         "raw_balance": 344031.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "M*HTTPS://WWW 5326*6906 31 JAN",
         "debit": -60.0,
         "credit": 0,
         "raw_balance": 343971.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "M*HTTPS://WWW 5326*6906 31 JAN",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 343961.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "M*HTTPS://WWW 5326*6906 31 JAN",
         "debit": -70.0,
         "credit": 0,
         "raw_balance": 343891.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "M*HTTPS://WWW 5326*6906 31 JAN",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 343881.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "M*HTTPS://WWW 5326*6906 31 JAN",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 343871.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "HTTPS://WWW.U 5326*6906 30 JAN",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 343861.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "M*HTTPS://WWW 5326*6906 31 JAN",
         "debit": -101.0,
         "credit": 0,
         "raw_balance": 343760.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "M*HTTPS://WWW 5326*6906 31 JAN",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 343750.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "M*HTTPS://WWW 5326*6906 31 JAN",
         "debit": -60.0,
         "credit": 0,
         "raw_balance": 343690.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "M*HTTPS://WWW 5326*6906 31 JAN",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 343670.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "M*HTTPS://WWW 5326*6906 31 JAN",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 343660.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "HTTPS://WW JOHANNESBURG ZAF 03-02-2025",
         "debit": -115.0,
         "credit": 0,
         "raw_balance": 343545.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "VOD PREPAID 0824222503",
         "debit": -89.0,
         "credit": 0,
         "raw_balance": 343456.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "VOD PREPAID 0646941483",
         "debit": -89.0,
         "credit": 0,
         "raw_balance": 343367.18
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "CITY OF CAPE TOWN MU CT RATES",
         "debit": -3251.01,
         "credit": 0,
         "raw_balance": 340116.17
       },
       {
-        "date": "03 Feb 25",
+        "date": "2025-02-03",
         "description": "*****1776171 15H01 *****0067",
         "debit": -9200.0,
         "credit": 0,
         "raw_balance": 330916.17
       },
       {
-        "date": "04 Feb 25",
+        "date": "2025-02-04",
         "description": "KWIKSPAR WEST 5222*0536 01 FEB",
         "debit": -626.03,
         "credit": 0,
         "raw_balance": 330290.14
       },
       {
-        "date": "04 Feb 25",
+        "date": "2025-02-04",
         "description": "UBER EATS 5222*0536 01 FEB",
         "debit": -575.19,
         "credit": 0,
         "raw_balance": 329714.95
       },
       {
-        "date": "04 Feb 25",
+        "date": "2025-02-04",
         "description": "HTTPS://WWW.U 5326*6906 31 JAN",
         "debit": -60.0,
         "credit": 0,
         "raw_balance": 329654.95
       },
       {
-        "date": "04 Feb 25",
+        "date": "2025-02-04",
         "description": "HTTPS://WWW.U 5326*6906 31 JAN",
         "debit": -70.0,
         "credit": 0,
         "raw_balance": 329584.95
       },
       {
-        "date": "04 Feb 25",
+        "date": "2025-02-04",
         "description": "I WEB AFRICA 5326*6906 01 FEB",
         "debit": -1249.0,
         "credit": 0,
         "raw_balance": 328335.95
       },
       {
-        "date": "04 Feb 25",
+        "date": "2025-02-04",
         "description": "LAYLA CASSIM ANA DRCASSIM",
         "debit": -753.7,
         "credit": 0,
         "raw_balance": 327582.25
       },
       {
-        "date": "04 Feb 25",
+        "date": "2025-02-04",
         "description": "DR P MAKAN DRMAKAN",
         "debit": -1000.0,
         "credit": 0,
         "raw_balance": 326582.25
       },
       {
-        "date": "04 Feb 25",
+        "date": "2025-02-04",
         "description": "ALPHEN VETERINARY HO LYRAMEDS",
         "debit": -828.5,
         "credit": 0,
         "raw_balance": 325753.75
       },
       {
-        "date": "05 Feb 25",
+        "date": "2025-02-05",
         "description": "UBER EATS 5222*0536 03 FEB",
         "debit": -389.91,
         "credit": 0,
         "raw_balance": 325363.84
       },
       {
-        "date": "05 Feb 25",
+        "date": "2025-02-05",
         "description": "M*HTTPS://WWW 5326*6906 03 FEB",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 325343.84
       },
       {
-        "date": "05 Feb 25",
+        "date": "2025-02-05",
         "description": "M*HTTPS://WWW 5326*6906 03 FEB",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 325333.84
       },
       {
-        "date": "05 Feb 25",
+        "date": "2025-02-05",
         "description": "M*HTTPS://WWW 5326*6906 03 FEB",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 325323.84
       },
       {
-        "date": "05 Feb 25",
+        "date": "2025-02-05",
         "description": "M*HTTPS://WWW 5326*6906 03 FEB",
         "debit": -102.0,
         "credit": 0,
         "raw_balance": 325221.84
       },
       {
-        "date": "05 Feb 25",
+        "date": "2025-02-05",
         "description": "WOOLWORTHS 5326*6906 02 FEB",
         "debit": -1677.03,
         "credit": 0,
         "raw_balance": 323544.81
       },
       {
-        "date": "05 Feb 25",
+        "date": "2025-02-05",
         "description": "M*HTTPS://WWW 5326*6906 03 FEB",
         "debit": -100.0,
         "credit": 0,
         "raw_balance": 323444.81
       },
       {
-        "date": "05 Feb 25",
+        "date": "2025-02-05",
         "description": "M*HTTPS://WWW 5326*6906 03 FEB",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 323434.81
       },
       {
-        "date": "05 Feb 25",
+        "date": "2025-02-05",
         "description": "MR. IAN HILL PTC VETS TOUR",
         "debit": -2500.0,
         "credit": 0,
         "raw_balance": 320934.81
       },
       {
-        "date": "05 Feb 25",
+        "date": "2025-02-05",
         "description": "SALT FOUNDATION (PTY) LTD MILA",
         "debit": 0,
         "credit": 13713.0,
         "raw_balance": 334647.81
       },
       {
-        "date": "06 Feb 25",
+        "date": "2025-02-06",
         "description": "WOOLWORTHS 5326*6906 04 FEB",
         "debit": -1551.18,
         "credit": 0,
         "raw_balance": 333096.63
       },
       {
-        "date": "06 Feb 25",
+        "date": "2025-02-06",
         "description": "M*HTTPS://WWW 5222*0536 04 FEB",
         "debit": -79.0,
         "credit": 0,
         "raw_balance": 333017.63
       },
       {
-        "date": "07 Feb 25",
+        "date": "2025-02-07",
         "description": "M*HTTPS://WWW 5326*6906 05 FEB",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 333007.63
       },
       {
-        "date": "07 Feb 25",
+        "date": "2025-02-07",
         "description": "M*ZAPPER1*ADM 5326*6906 05 FEB",
         "debit": -1274.0,
         "credit": 0,
         "raw_balance": 331733.63
       },
       {
-        "date": "07 Feb 25",
+        "date": "2025-02-07",
         "description": "AE CLAREMONT 5326*6906 04 FEB",
         "debit": -1151.95,
         "credit": 0,
         "raw_balance": 330581.68
       },
       {
-        "date": "07 Feb 25",
+        "date": "2025-02-07",
         "description": "M*HTTPS://WWW 5326*6906 05 FEB",
         "debit": -150.0,
         "credit": 0,
         "raw_balance": 330431.68
       },
       {
-        "date": "07 Feb 25",
+        "date": "2025-02-07",
         "description": "HTTPS://WWW.U 5326*6906 04 FEB",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 330421.68
       },
       {
-        "date": "07 Feb 25",
+        "date": "2025-02-07",
         "description": "HTTPS://WWW.U 5326*6906 04 FEB",
         "debit": -80.0,
         "credit": 0,
         "raw_balance": 330341.68
       },
       {
-        "date": "07 Feb 25",
+        "date": "2025-02-07",
         "description": "C*MORTON AND 5222*0536 06 FEB",
         "debit": -13856.24,
         "credit": 0,
         "raw_balance": 316485.44
       },
       {
-        "date": "07 Feb 25",
+        "date": "2025-02-07",
         "description": "UBER EATS 5222*0536",
         "debit": 0,
         "credit": 389.9,
         "raw_balance": 316875.34
       },
       {
-        "date": "07 Feb 25",
+        "date": "2025-02-07",
         "description": "ADT CPT 6114011616ADT2092942",
         "debit": -1474.92,
         "credit": 0,
         "raw_balance": 315400.42
       },
       {
-        "date": "08 Feb 25",
+        "date": "2025-02-08",
         "description": "ADVANCE CA HALFWAYHOUSE ZAF 07-02-2025",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 315390.42
       },
       {
-        "date": "08 Feb 25",
+        "date": "2025-02-08",
         "description": "M*HTTPS://WWW 5326*6906 06 FEB",
         "debit": -110.0,
         "credit": 0,
         "raw_balance": 315280.42
       },
       {
-        "date": "08 Feb 25",
+        "date": "2025-02-08",
         "description": "M*HTTPS://WWW 5326*6906 06 FEB",
         "debit": -90.0,
         "credit": 0,
         "raw_balance": 315190.42
       },
       {
-        "date": "08 Feb 25",
+        "date": "2025-02-08",
         "description": "M*HTTPS://WWW 5326*6906 06 FEB",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 315170.42
       },
       {
-        "date": "08 Feb 25",
+        "date": "2025-02-08",
         "description": "M*HTTPS://WWW 5326*6906 06 FEB",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 315150.42
       },
       {
-        "date": "08 Feb 25",
+        "date": "2025-02-08",
         "description": "HTTPS://WW JOHANNESBURG ZAF 08-02-2025",
         "debit": -60.0,
         "credit": 0,
         "raw_balance": 315090.42
       },
       {
-        "date": "08 Feb 25",
+        "date": "2025-02-08",
         "description": "HTTPS://WW JOHANNESBURG ZAF 08-02-2025",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 315070.42
       },
       {
-        "date": "08 Feb 25",
+        "date": "2025-02-08",
         "description": "KWIKSPAR W WESTERN CAPE ZAF 08-02-2025",
         "debit": -404.71,
         "credit": 0,
         "raw_balance": 314665.71
       },
       {
-        "date": "08 Feb 25",
+        "date": "2025-02-08",
         "description": "ANA POTTER",
         "debit": -150.0,
         "credit": 0,
         "raw_balance": 314515.71
       },
       {
-        "date": "08 Feb 25",
+        "date": "2025-02-08",
         "description": "LIAM POTTER",
         "debit": -301.0,
         "credit": 0,
         "raw_balance": 314214.71
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "HTTPS://WW JOHANNESBURG ZAF 08-02-2025",
         "debit": -70.0,
         "credit": 0,
         "raw_balance": 314144.71
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "HTTPS://WW JOHANNESBURG ZAF 09-02-2025",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 314134.71
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "FOSSIL-CAN MILNERTON ZAF 09-02-2025 15H21:35",
         "debit": -80.0,
         "credit": 0,
         "raw_balance": 314054.71
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "HTTPS://WW JOHANNESBURG ZAF 09-02-2025",
         "debit": -130.0,
         "credit": 0,
         "raw_balance": 313924.71
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "HTTPS://WW JOHANNESBURG ZAF 09-02-2025",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 313904.71
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "WOOLWORTHS CANAL WALK ZAF 09-02-2025",
         "debit": -1598.7,
         "credit": 0,
         "raw_balance": 312306.01
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "HTTPS://WW PARKTOWN NOR ZAF 09-02-2025",
         "debit": -120.0,
         "credit": 0,
         "raw_balance": 312186.01
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "HTTPS://WW JOHANNESBURG ZAF 09-02-2025",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 312166.01
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "M&B CANAL CAPE TOWN ZAF 09-02-2025 17H37:28",
         "debit": -400.0,
         "credit": 0,
         "raw_balance": 311766.01
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "PNA CANAL WESTERN CAPE ZAF 09-02-2025",
         "debit": -140.5,
         "credit": 0,
         "raw_balance": 311625.51
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "ADVANCE CA HALFWAYHOUSE ZAF 09-02-2025",
         "debit": -11.0,
         "credit": 0,
         "raw_balance": 311614.51
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "HTTPS://WWW.U 5326*6906 06 FEB",
         "debit": -70.0,
         "credit": 0,
         "raw_balance": 311544.51
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "M*HTTPS://WWW 5326*6906 07 FEB",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 311534.51
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "TASHASCANALWA 5326*6906 07 FEB",
         "debit": -940.0,
         "credit": 0,
         "raw_balance": 310594.51
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "I BUTLERS PIZ 5326*6906 08 FEB",
         "debit": -356.9,
         "credit": 0,
         "raw_balance": 310237.61
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "M*HTTPS://WWW 5326*6906 07 FEB",
         "debit": -103.0,
         "credit": 0,
         "raw_balance": 310134.61
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "M*HTTPS://WWW 5326*6906 06 FEB",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 310124.61
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "NETFLIX.COM 5222*8649 08 FEB",
         "debit": -159.0,
         "credit": 0,
         "raw_balance": 309965.61
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "APPLE.COM/BIL 5222*8649 07 FEB",
         "debit": -124.99,
         "credit": 0,
         "raw_balance": 309840.62
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "#INTERNATIONAL5222625468348649",
         "debit": -4.37,
         "credit": 0,
         "raw_balance": 309836.25
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "#INTERNATIONAL5222625468348649",
         "debit": -3.44,
         "credit": 0,
         "raw_balance": 309832.81
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "HTTPS://WW JOHANNESBURG ZAF 10-02-2025",
         "debit": -131.0,
         "credit": 0,
         "raw_balance": 309701.81
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "HTTPS://WW JOHANNESBURG ZAF 10-02-2025",
         "debit": -20.0,
         "credit": 0,
         "raw_balance": 309681.81
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "HTTPS://WW JOHANNESBURG ZAF 10-02-2025",
         "debit": -90.0,
         "credit": 0,
         "raw_balance": 309591.81
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "HTTPS://WW JOHANNESBURG ZAF 10-02-2025",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 309581.81
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "HTTPS://WW JOHANNESBURG ZAF 10-02-2025",
         "debit": -10.0,
         "credit": 0,
         "raw_balance": 309571.81
       },
       {
-        "date": "10 Feb 25",
+        "date": "2025-02-10",
         "description": "HTTPS://WW JOHANNESBURG ZAF 10-02-2025",
         "debit": -60.0,
         "credit": 0,
