@@ -9,6 +9,7 @@ def is_number(value):
 
 def parse_statement(lines):
     statement_metadata = {}
+    statement_summarydata = {}
     transactions = []
 
     print(f"\n=== PARSING STARTED ===")
@@ -24,10 +25,6 @@ def parse_statement(lines):
 
     
     for i, line in enumerate(lines):
-
-
-        # Detect date like "05 Oct"
-        # if re.match(r"^\d{2} [A-Za-z]{3}$", line):
         if re.match(r"^\d{2} [A-Za-z]{3}( \d{2})?$", line):
             date = line
             description = lines[i + 1].strip()
@@ -48,8 +45,6 @@ def parse_statement(lines):
                 elif numberStorage[i] < 0:
                     debit = numberStorage[i]
 
-
-            print(numberStorage)
             balance = numberStorage[-1]
 
             transactions.append({
@@ -60,8 +55,23 @@ def parse_statement(lines):
                 "raw_balance": balance
             })
 
+    for i, line in enumerate(lines[-20:]):
+        if line.startswith("Statement Summary"):
+            next_index = i + 1
+            if next_index < len(lines[-20:]):
+                statement_summarydata["Payments"] = float(lines[-20:][next_index + 1]
+                        .strip()
+                        .replace(",", "")
+                        .replace("R", "")
+                )
 
-            
+                statement_summarydata["Deposits"] = float(lines[-20:][next_index + 3]
+                        .strip()
+                        .replace(",", "")
+                        .replace("R", "")
+                )
+
+   
     
     print(f"\n=== PARSING COMPLETE ===")
 
@@ -71,5 +81,6 @@ def parse_statement(lines):
 
     return {
         "statement_metadata": statement_metadata,
-        "transactions": transactions
+        "transactions": transactions,
+        "statement_summarydata": statement_summarydata
     }

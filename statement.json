@@ -4115,6 +4115,10 @@
         "credit": 0,
         "raw_balance": 309511.81
       }
-    ]
+    ],
+    "statement_summarydata": {
+      "Payments": -560653.82,
+      "Deposits": 604654.78
+    }
   }
 }
