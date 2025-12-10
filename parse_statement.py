@@ -25,8 +25,9 @@ def parse_statement(lines):
             formattedDate = parsed.strftime("%Y-%m-%d")
 
             statement_metadata["period_from"] = formattedDate
-
+            
         elif line.startswith("To:"):
+
             date = line.replace("To:", "").strip()
             parsed = datetime.strptime(date, "%d %b %y")
             formattedDate = parsed.strftime("%Y-%m-%d")
@@ -34,9 +35,10 @@ def parse_statement(lines):
             statement_metadata["period_to"] = formattedDate
             statement_metadata["statement_date"] = statement_metadata["period_to"]
 
-    
     for i, line in enumerate(lines):
+        print(f"Line {i}: {line}")
         if re.match(r"^\d{2} [A-Za-z]{3}( \d{2})?$", line):
+            
             date = line
             parsed = datetime.strptime(date, "%d %b %y")
             formattedDate = parsed.strftime("%Y-%m-%d")
