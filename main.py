@@ -6,7 +6,7 @@ from parse_statement import parse_statement
 from general_parse_statement import general_parse_statement
 
 # PDF_PATH = "CapeticPDF.pdf"
-PDF_PATH = "StandardBankSample.pdf"
+PDF_PATH = "5 November 2025.pdf"
 
 # Run both extractors
 pymu_lines = extract_text_pymupdf(PDF_PATH)

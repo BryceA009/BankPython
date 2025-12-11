@@ -2,301 +2,193 @@
   "pymupdf_results": {
     "transactions": [
       {
-        "date1": "31/08/2018",
-        "date2": "19/08/2018",
-        "description1": "Correction: Cash Withdrawal Cpc",
-        "amount1": "100.00",
-        "amount2": null
+        "date": "6 Oct 25",
+        "description": "Balance Brought Forward",
+        "amount": "2,610.34"
       },
       {
-        "date1": "31/08/2018",
-        "date2": "19/08/2018",
-        "description1": "Correction: ATM Cash Withdrawal Fee",
-        "amount1": "6.56",
-        "amount2": null
+        "date": "21 Oct 25",
+        "description": "Fund Transfers",
+        "amount": "-8,000.00"
       },
       {
-        "date1": "31/08/2018",
-        "date2": "31/08/2018",
-        "description1": "Banking App Payment Received A Pieterse",
-        "amount1": "1 000.00",
-        "amount2": null
+        "date": "3 Nov 25",
+        "description": "Fund Transfers",
+        "amount": "-6,000.00"
       },
       {
-        "date1": "31/08/2018",
-        "date2": "31/08/2018",
-        "description1": "Banking App Payment Luno",
-        "amount1": null,
-        "amount2": "100.00"
+        "date": "9 Oct 25",
+        "description": "Oracle America, Inc. 0.06",
+        "amount": "1.22"
       },
       {
-        "date1": "31/08/2018",
-        "date2": "31/08/2018",
-        "description1": "Banking App Payment Fee",
-        "amount1": null,
-        "amount2": "1.60"
+        "date": "5 Nov 25",
+        "description": "Oracle America, Inc. 0.06",
+        "amount": "1.20"
       },
       {
-        "date1": "31/08/2018",
-        "date2": "31/08/2018",
-        "description1": "ATM Balance Enquiry Fee",
-        "amount1": null,
-        "amount2": "5.55"
+        "date": "4 Oct 25",
+        "description": "Simply Asia    Nb5278",
+        "amount": "326.05"
       },
       {
-        "date1": "31/08/2018",
-        "date2": "31/08/2018",
-        "description1": "ATM Cash Withdrawal Spar Panorama (Card",
-        "amount1": null,
-        "amount2": "1000.00"
+        "date": "21 Oct 25",
+        "description": "Tonneson Fitment Cen",
+        "amount": "4,335.00"
       },
       {
-        "date1": "31/08/2018",
-        "date2": "31/08/2018",
-        "description1": "Cash Withdrawal Fee (ATM)",
-        "amount1": null,
-        "amount2": "8.83"
+        "date": "9 Oct 25",
+        "description": "# International Txn Fee",
+        "amount": "0.03"
       },
       {
-        "date1": "31/08/2018",
-        "date2": "31/08/2018",
-        "description1": "Interest Received",
-        "amount1": "1.49",
-        "amount2": null
+        "date": "22 Oct 25",
+        "description": "Steers Rosmead Bb5295",
+        "amount": "370.40"
       },
       {
-        "date1": "31/08/2018",
-        "date2": "31/08/2018",
-        "description1": "SMS Notification Fee",
-        "amount1": null,
-        "amount2": "0.80"
+        "date": "10 Oct 25",
+        "description": "Mcd Plumstead  Bb5283",
+        "amount": "315.60"
       },
       {
-        "date1": "31/08/2018",
-        "date2": "31/08/2018",
-        "description1": "Monthly Account Admin Fee",
-        "amount1": null,
-        "amount2": "5.80"
+        "date": "24 Oct 25",
+        "description": "Total Tokai C",
+        "amount": "650.40"
       },
       {
-        "date1": "01/09/2018",
-        "date2": "01/09/2018",
-        "description1": "Banking App Payment Received A Pieterse",
-        "amount1": "200.00",
-        "amount2": null
+        "date": "11 Oct 25",
+        "description": "Marias Greek Cafe",
+        "amount": "580.00"
       },
       {
-        "date1": "01/09/2018",
-        "date2": "01/09/2018",
-        "description1": "ATM Cash Withdrawal Spar Panorama (Card",
-        "amount1": null,
-        "amount2": "190.00"
+        "date": "26 Oct 25",
+        "description": "Vodacom Bundle Nb5300",
+        "amount": "99.00"
       },
       {
-        "date1": "01/09/2018",
-        "date2": "01/09/2018",
-        "description1": "Cash Withdrawal Fee (ATM)",
-        "amount1": null,
-        "amount2": "8.83"
+        "date": "11 Oct 25",
+        "description": "Kfc Plumstead  Bb5284",
+        "amount": "212.80"
       },
       {
-        "date1": "01/09/2018",
-        "date2": "01/09/2018",
-        "description1": "Banking App Payment Received A Pieterse",
-        "amount1": "200.00",
-        "amount2": null
+        "date": "28 Oct 25",
+        "description": "Rosemead Fisheries - Nc",
+        "amount": "266.00"
       },
       {
-        "date1": "01/09/2018",
-        "date2": "01/09/2018",
-        "description1": "Banking App Payment Received A Pieterse",
-        "amount1": "1 000.00",
-        "amount2": null
+        "date": "14 Oct 25",
+        "description": "Steers Rosmead Bb5287",
+        "amount": "479.60"
       },
       {
-        "date1": "01/09/2018",
-        "date2": "01/09/2018",
-        "description1": "Purchase & Cash: Model Melkwinkel N16227",
-        "amount1": null,
-        "amount2": "1031.70"
+        "date": "31 Oct 25",
+        "description": "C* Nandos Plumstead U",
+        "amount": "475.00"
       },
       {
-        "date1": "01/09/2018",
-        "date2": "01/09/2018",
-        "description1": "Till Cash Withdrawal Fee",
-        "amount1": null,
-        "amount2": "1.61"
+        "date": "17 Oct 25",
+        "description": "Shell Churchil Bb5290",
+        "amount": "819.25"
       },
       {
-        "date1": "01/09/2018",
-        "date2": "01/09/2018",
-        "description1": "Banking App Payment Received A Pieterse",
-        "amount1": "400.00",
-        "amount2": null
+        "date": "3 Nov 25",
+        "description": "Google *Youtubepremium",
+        "amount": "149.99"
       },
       {
-        "date1": "01/09/2018",
-        "date2": "01/09/2018",
-        "description1": "Banking App Payment Received A Pieterse",
-        "amount1": "100.00",
-        "amount2": null
+        "date": "18 Oct 25",
+        "description": "C* Kauai 3 Arts U",
+        "amount": "231.00"
       },
       {
-        "date1": "01/09/2018",
-        "date2": "01/09/2018",
-        "description1": "ATM Balance Enquiry Fee",
-        "amount1": null,
-        "amount2": "5.55"
+        "date": "3 Nov 25",
+        "description": "# International Txn Fee",
+        "amount": "4.12"
       },
       {
-        "date1": "01/09/2018",
-        "date2": "01/09/2018",
-        "description1": "ATM Cash Withdrawal Spar Panorama (Card",
-        "amount1": null,
-        "amount2": "600.00"
+        "date": "18 Oct 25",
+        "description": "Wembley Roadhouse",
+        "amount": "133.30"
       },
       {
-        "date1": "01/09/2018",
-        "date2": "01/09/2018",
-        "description1": "Cash Withdrawal Fee (ATM)",
-        "amount1": null,
-        "amount2": "8.83"
+        "date": "5 Nov 25",
+        "description": "# International Txn Fee",
+        "amount": "0.03"
       },
       {
-        "date1": "01/09/2018",
-        "date2": "01/09/2018",
-        "description1": "SMS Notification Fee",
-        "amount1": null,
-        "amount2": "2.80"
+        "date": "18 Oct 25",
+        "description": "Romans Pizza P Bb5291",
+        "amount": "109.90"
       },
       {
-        "date1": "02/09/2018",
-        "date2": "02/09/2018",
-        "description1": "Banking App Payment Received A Pieterse",
-        "amount1": "1 600.00",
-        "amount2": null
+        "date": "5 Nov 25",
+        "description": "# Service Fee",
+        "amount": "48.00"
       },
       {
-        "date1": "02/09/2018",
-        "date2": "02/09/2018",
-        "description1": "ATM Balance Enquiry Fee",
-        "amount1": null,
-        "amount2": "5.55"
-      },
-      {
-        "date1": "02/09/2018",
-        "date2": "02/09/2018",
-        "description1": "ATM Cash Withdrawal Absa Magalies Centre",
-        "amount1": null,
-        "amount2": "1350.00"
-      },
-      {
-        "date1": "02/09/2018",
-        "date2": "02/09/2018",
-        "description1": "Cash Withdrawal Fee (ATM)",
-        "amount1": null,
-        "amount2": "8.83"
-      },
-      {
-        "date1": "02/09/2018",
-        "date2": "02/09/2018",
-        "description1": "SMS Notification Fee",
-        "amount1": null,
-        "amount2": "1.20"
-      },
-      {
-        "date1": "03/09/2018",
-        "date2": "01/09/2018",
-        "description1": "Lulu's Liquors Brits (Card 1551)",
-        "amount1": null,
-        "amount2": "50.00"
-      },
-      {
-        "date1": "04/09/2018",
-        "date2": "04/09/2018",
-        "description1": "Banking App Payment Received J Bronn",
-        "amount1": "150.00",
-        "amount2": null
-      },
-      {
-        "date1": "04/09/2018",
-        "date2": "04/09/2018",
-        "description1": "ATM Cash Withdrawal Absa Panorama Centre",
-        "amount1": null,
-        "amount2": "140.00"
-      },
-      {
-        "date1": "04/09/2018",
-        "date2": "04/09/2018",
-        "description1": "Cash Withdrawal Fee (ATM)",
-        "amount1": null,
-        "amount2": "8.83"
-      },
-      {
-        "date1": "04/09/2018",
-        "date2": "04/09/2018",
-        "description1": "SMS Notification Fee",
-        "amount1": null,
-        "amount2": "0.40"
-      },
-      {
-        "date1": "05/09/2018",
-        "date2": "02/09/2018",
-        "description1": "Oklahoma Supermar Brits (Card 1551)",
-        "amount1": null,
-        "amount2": "230.00"
-      },
-      {
-        "date1": "05/09/2018",
-        "date2": "05/09/2018",
-        "description1": "Payment Received: Absa Bank Deon Transfer",
-        "amount1": "500.00",
-        "amount2": null
-      },
-      {
-        "date1": "05/09/2018",
-        "date2": "05/09/2018",
-        "description1": "Banking App Prepaid Purchase MTN",
-        "amount1": null,
-        "amount2": "70.00"
+        "date": "18 Oct 25",
+        "description": "Olympia Cafe     126471",
+        "amount": "182.00"
       }
     ],
     "headings": {
       "1": {
         "headings": [
           {
-            "x": 48.400001525878906,
-            "text": "Posting Date",
-            "y": 313.3600158691406
+            "x": 28.34645652770996,
+            "text": "No payment due as the account has a credit balance.",
+            "y": 307.6858215332031
           },
           {
-            "x": 109.5,
-            "text": "Transaction Date",
-            "y": 308.760009765625
+            "x": 210.18234252929688,
+            "text": "Balance brought forward on this statement Payment due date",
+            "y": 319.7278137207031
           },
           {
-            "x": 170.60000610351562,
-            "text": "Description",
-            "y": 313.3600158691406
-          },
-          {
-            "x": 364.29998779296875,
-            "text": "Money In (R)",
-            "y": 313.3600158691406
-          },
-          {
-            "x": 422.3999938964844,
-            "text": "Money Out (R)",
-            "y": 313.3600158691406
-          },
-          {
-            "x": 523.2999877929688,
-            "text": "Balance (R)",
-            "y": 313.3600158691406
+            "x": 530.2944946289062,
+            "text": "-1,599.77 1 Dec 25",
+            "y": 319.7278137207031
           }
         ],
-        "y": 308.760009765625,
+        "y": 316.8858337402344,
         "page_number": 1
+      },
+      "2": {
+        "headings": [
+          {
+            "x": 31.18109130859375,
+            "text": "Date 6 Oct 25",
+            "y": 256.8462829589844
+          },
+          {
+            "x": 85.03936004638672,
+            "text": "Description Balance Brought Forward",
+            "y": 256.8462829589844
+          },
+          {
+            "x": 253.24856567382812,
+            "text": "Amount 2,610.34",
+            "y": 256.8462829589844
+          },
+          {
+            "x": 300.47247314453125,
+            "text": "Date",
+            "y": 256.8462829589844
+          },
+          {
+            "x": 354.33074951171875,
+            "text": "Description",
+            "y": 256.8462829589844
+          },
+          {
+            "x": 522.5399169921875,
+            "text": "Amount",
+            "y": 256.8462829589844
+          }
+        ],
+        "y": 256.8462829589844,
+        "page_number": 2
       }
     }
   }

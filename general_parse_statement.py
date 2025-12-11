@@ -24,6 +24,52 @@ def is_number(value):
     except (ValueError, AttributeError):
         return False
 
+def detect_two_tables(transactions):
+    total_with_date2 = 0
+    mismatches = 0
+
+    for row in transactions:
+        d1 = row.get("date1")
+        d2 = row.get("date2")
+
+        if d2:
+            total_with_date2 += 1
+            if d1 != d2:
+                mismatches += 1
+
+    if total_with_date2 == 0:
+        return False
+
+    ratio = mismatches / total_with_date2
+
+    return ratio > 0.7
+
+def split_if_two_tables(transactions):
+    if not detect_two_tables(transactions):
+        return transactions
+
+    final = []
+
+    for row in transactions:
+        left = {}
+        right = {}
+
+        for key, value in row.items():
+            if key.endswith("1"):
+                left[key[:-1]] = value
+            elif key.endswith("2"):
+                right[key[:-1]] = value
+
+        # Add left (if meaningful)
+        if any(v for v in left.values()):
+            final.append(left)
+
+        # Add right (if meaningful)
+        if any(v for v in right.values()):
+            final.append(right)
+
+    return final
+
 def expand_wrapped_headers(header_info, items, y_tol=6, x_tol=12):
     """
     After finding main header row, check nearby y-coordinates for wrapped text
@@ -361,12 +407,14 @@ def extract_transactions_with_dates(items, header_info):
 
     DATE_KEYWORDS = ["date", "posting date", "post date", "value date"]
     DESC_KEYWORDS = ["description", "transaction", "details", "narrative"]
-    AMT_KEYWORDS = ["amount", "debit", "credit", "money in", "money out", "payments"]
+    AMT_KEYWORDS = ["amount", "debit", "credit", "money in", "money out", "payments", "deposits"]
+    BAL_KEYWORDS = ["balance", "available balance", "account balance"]
 
     # Identify date columns and description columns
     date_columns = []
     desc_columns = []
     amount_columns = []
+    balance_columns = []
 
     for h in headings:
         txt = h["text"].lower()
@@ -376,6 +424,8 @@ def extract_transactions_with_dates(items, header_info):
             desc_columns.append(h["x"])
         elif any(k in txt for k in AMT_KEYWORDS):
             amount_columns.append(h["x"])
+        elif any(k in txt for k in BAL_KEYWORDS):
+            balance_columns.append(h["x"])
 
     if not date_columns:
         print("No date columns found in header")
@@ -429,12 +479,20 @@ def extract_transactions_with_dates(items, header_info):
             row_data[col_key] = None
             for it in row_items:
                 if 0 <= (it["x"] - x_col) <= x_tol:
-                    print(it)
+                    row_data[col_key] = it["text"].strip()
+                    break
+        
+        for idx, x_col in enumerate(balance_columns, start=1):
+            col_key = f"balance{idx}"
+            row_data[col_key] = None
+            for it in row_items:
+                if abs(it["x"] - x_col) <= x_tol:
                     row_data[col_key] = it["text"].strip()
                     break
 
         transactions.append(row_data)
-
+        
+    transactions = split_if_two_tables(transactions)
     return transactions
 
 def general_parse_statement(items, chunk_size=3000):
